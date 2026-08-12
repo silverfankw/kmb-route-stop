@@ -625,8 +625,8 @@
       "dest_en": "CHEUNG SHA WAN",
       "orig_tc": "慈雲山(北)",
       "dest_tc": "長沙灣",
-      "special_remark_tc": "經富山邨",
-      "special_remark_en": "Via Fu Shan Estate",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS14T10500",
         "TS15E09500",
@@ -734,7 +734,7 @@
       "orig_tc": "彩福",
       "dest_tc": "美孚",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "CH42W09000",
         "CH42W10500",
@@ -1047,8 +1047,8 @@
       "dest_en": "KWUN TONG (YUE MAN SQUARE)",
       "orig_tc": "慈雲山(南)",
       "dest_tc": "觀塘(裕民坊)",
-      "special_remark_tc": "由慈雲山(南)開出",
-      "special_remark_en": "Originate from Tsz Wan Shan (South)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS15T10500",
         "PO03E11400",
@@ -1072,8 +1072,8 @@
       "dest_en": "KWUN TONG (YUE MAN SQUARE)",
       "orig_tc": "正康樓",
       "dest_tc": "觀塘(裕民坊)",
-      "special_remark_tc": "由正康樓站開出",
-      "special_remark_en": "Originate from Ching Hong House bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS15E11750",
         "TS15E12500",
@@ -1254,8 +1254,8 @@
       "dest_en": "CHINA FERRY TERMINAL",
       "orig_tc": "慈雲山(北)",
       "dest_tc": "中港碼頭",
-      "special_remark_tc": "經富山邨",
-      "special_remark_en": "Via Fu Shan Estate",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS14T11000",
         "TS15E09500",
@@ -1539,8 +1539,8 @@
       "dest_en": "STAR FERRY",
       "orig_tc": "毓華街",
       "dest_tc": "尖沙咀碼頭",
-      "special_remark_tc": "由貫華里站開出",
-      "special_remark_en": "Originate from Koon Wah Lane bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "YU06W10000",
         "YU06W10500",
@@ -1749,8 +1749,8 @@
       "dest_en": "KWUN TONG (apm)",
       "orig_tc": "啟德郵輪碼頭",
       "dest_tc": "觀塘 (apm)",
-      "special_remark_tc": "以apm創紀之城5期為尾站",
-      "special_remark_en": "Terminate at apm Millennium City 5",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA07T10000",
         "SH45W09500",
@@ -1770,8 +1770,8 @@
       "dest_en": "KAI TAK CRUISE TERMINAL",
       "orig_tc": "牛頭角站",
       "dest_tc": "啟德郵輪碼頭",
-      "special_remark_tc": "由牛頭角站開出",
-      "special_remark_en": "Originate from Ngau Tau Kok Station bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16E17850",
         "KW16W11500",
@@ -2057,7 +2057,7 @@
       "orig_tc": "長沙灣(蘇屋邨)",
       "dest_tc": "鯉魚門邨",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "SO01T11000",
         "PO07N10500",
@@ -2215,7 +2215,7 @@
       "orig_tc": "長沙灣(蘇屋邨)",
       "dest_tc": "鯉魚門邨",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "SO01T11000",
         "PO07N10500",
@@ -2267,7 +2267,7 @@
       "orig_tc": "美孚(美荔道)",
       "dest_tc": "昂船洲軍營(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "ME01S10000",
         "CH79S10000",
@@ -2526,7 +2526,7 @@
       "orig_tc": "黃埔花園",
       "dest_tc": "尖沙咀(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Circular",
+      "special_remark_en": "",
       "stops": [
         "WH01T11000",
         "HU06N10000",
@@ -2558,7 +2558,7 @@
       "orig_tc": "海逸豪園",
       "dest_tc": "尖沙咀(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Circular",
+      "special_remark_en": "",
       "stops": [
         "LA14T10000",
         "WH01T11000",
@@ -3344,8 +3344,8 @@
       "dest_en": "SHAM SHUI PO (YEN CHOW ST)",
       "orig_tc": "安達臣",
       "dest_tc": "深水埗(欽州街)",
-      "special_remark_tc": "(經九龍城、旺角)",
-      "special_remark_en": "(Via Kowloon City, Mong Kok)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "AN01T09500",
         "ON19A10000",
@@ -3485,8 +3485,8 @@
       "dest_en": "ISLAND HARBOURVIEW",
       "orig_tc": "寶達",
       "dest_tc": "維港灣",
-      "special_remark_tc": "每日上午十時後班次 (經深旺道)",
-      "special_remark_en": "Departures from 10:00 (via Sham Mong Road)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO05T10000",
         "HI06W10000",
@@ -3569,8 +3569,8 @@
       "dest_en": "KWUN TONG STATION",
       "orig_tc": "寶達",
       "dest_tc": "觀塘站",
-      "special_remark_tc": "由寶達總站開出經將軍澳道",
-      "special_remark_en": "Originate from Po Tat Bus Terminus via Tseung Kwan",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO05T10500",
         "SA13E12000",
@@ -3752,8 +3752,8 @@
       "dest_en": "TSIM SHA TSUI EAST",
       "orig_tc": "寶達",
       "dest_tc": "尖沙咀東",
-      "special_remark_tc": "(不經麗晶花園及啟業)",
-      "special_remark_en": "(not via Richland Gardens and Kai Yip)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO05T09500",
         "SA13W11000",
@@ -3790,8 +3790,8 @@
       "dest_en": "TSIM SHA TSUI EAST",
       "orig_tc": "彩褔",
       "dest_tc": "尖沙咀東",
-      "special_remark_tc": "(特別班由彩福開出)",
-      "special_remark_en": "(Special departure depart from Choi Fook)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH42W09000",
         "CH42W10500",
@@ -3819,8 +3819,8 @@
       "dest_en": "TSIM SHA TSUI EAST",
       "orig_tc": "寶達",
       "dest_tc": "尖沙咀東",
-      "special_remark_tc": "(不停紅磡曲街，不經麗晶花園及啟業。)",
-      "special_remark_en": "(Omit Cooke Street stop, not via Richland Gardens,",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO05T09500",
         "SA13W11000",
@@ -3992,8 +3992,8 @@
       "dest_en": "LAM TIN (KWONG TIN ESTATE)",
       "orig_tc": "樂華",
       "dest_tc": "藍田(廣田邨)",
-      "special_remark_tc": "(特別班由樂華開出)",
-      "special_remark_en": "(Special departure depart from Lok Wah)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LO02T12000",
         "CH20W10600",
@@ -4055,8 +4055,8 @@
       "dest_en": "CHOI HUNG",
       "orig_tc": "油塘",
       "dest_tc": "彩虹",
-      "special_remark_tc": "(特別班由油塘開出)",
-      "special_remark_en": "(Special departure depart from Yau Tong)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "YA06T10500",
         "LE03W09500",
@@ -4090,8 +4090,8 @@
       "dest_en": "CHOI HUNG",
       "orig_tc": "藍田(廣田邨)",
       "dest_tc": "彩虹",
-      "special_remark_tc": "(特別班由廣田開出)",
-      "special_remark_en": "(Special departure depart from Kwong Tin)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LA05T10000",
         "PI01N10000",
@@ -4574,8 +4574,8 @@
       "dest_en": "MONG KOK (PARK AVENUE)",
       "orig_tc": "平田",
       "dest_tc": "旺角(柏景灣)",
-      "special_remark_tc": "(特別班由平田開出)",
-      "special_remark_en": "(from Ping Tin)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PI03T12000",
         "LA06T09000",
@@ -4678,8 +4678,8 @@
       "dest_en": "MONG KOK (PARK AVENUE)",
       "orig_tc": "觀塘碼頭",
       "dest_tc": "旺角(柏景灣)",
-      "special_remark_tc": "(經旺角站)",
-      "special_remark_en": "(Via Mong Kok Station)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW12T11500",
         "WA06N11000",
@@ -4842,8 +4842,8 @@
       "dest_en": "HO MAN TIN (OI MAN ESTATE)",
       "orig_tc": "九龍灣站",
       "dest_tc": "何文田(愛民邨)",
-      "special_remark_tc": "由九龍灣站開出",
-      "special_remark_en": "Originate from Kowloon Bay Station bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16W23500",
         "KW16W24800",
@@ -4871,8 +4871,8 @@
       "dest_en": "HO MAN TIN (OI MAN ESTATE)",
       "orig_tc": "太子道東(麗晶花園)",
       "dest_tc": "何文田(愛民邨)",
-      "special_remark_tc": "由麗晶花園站開出",
-      "special_remark_en": "Originate from Richland Gardens bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PR01W10500",
         "PR01W12250",
@@ -4898,8 +4898,8 @@
       "dest_en": "OI MAN (CIRCULAR)",
       "orig_tc": "長沙灣(海達邨)",
       "dest_tc": "愛民(循環線)",
-      "special_remark_tc": "循環線",
-      "special_remark_en": "Circular",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HO08T10000",
         "SH37E09500",
@@ -4974,8 +4974,8 @@
       "dest_en": "DIAMOND HILL (KAI CHEUNG COURT)",
       "orig_tc": "安達臣",
       "dest_tc": "鑽石山(啟翔苑)",
-      "special_remark_tc": "(經彩虹轉車站轉乘往各區)",
-      "special_remark_en": "(Via Choi Hung BBI)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "AN01T10000",
         "ON19A10000",
@@ -5098,8 +5098,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "順天",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "由順天總站開出",
-      "special_remark_en": "Originate from Shun Tin Bus Bus Terminus",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH17T11000",
         "LE01W10000",
@@ -5162,8 +5162,8 @@
       "dest_en": "SHUN LEE (CIRCULAR)",
       "orig_tc": "樂華",
       "dest_tc": "順利(循環線)",
-      "special_remark_tc": "經九龍灣商貿區",
-      "special_remark_en": "Via Kowloon Bay Commercial Area",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LO02T10500",
         "CH20W10600",
@@ -5248,8 +5248,8 @@
       "dest_en": "MONG KOK (CIRCULAR)",
       "orig_tc": "啟業",
       "dest_tc": "旺角(循環線)",
-      "special_remark_tc": "往啟業方向經九龍灣商貿區",
-      "special_remark_en": "Via Kowloon Bay Commercial Area for Kai Yip bound)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA01T11000",
         "WA12N11500",
@@ -5299,8 +5299,8 @@
       "dest_en": "MONG KOK (CIRCULAR)",
       "orig_tc": "啟業",
       "dest_tc": "旺角(循環線)",
-      "special_remark_tc": "往旺角方向經九龍灣商貿區",
-      "special_remark_en": "Via Kowloon Bay Commercial Area for Mong Kok bound",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA01T11000",
         "WA12S10000",
@@ -5605,8 +5605,8 @@
       "dest_en": "OLYMPIC STATION",
       "orig_tc": "順天",
       "dest_tc": "奧運站",
-      "special_remark_tc": "(經九龍城、旺角)",
-      "special_remark_en": "(Via Kowloon City, Mong Kok)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH17T10000",
         "LE01W10250",
@@ -6152,7 +6152,7 @@
       "orig_tc": "葵涌邨",
       "dest_tc": "石籬(大隴街)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KW15T12000",
         "TA27E12000",
@@ -6288,7 +6288,7 @@
       "orig_tc": "石籬商場",
       "dest_tc": "葵芳站",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "WA03N10000",
         "WO04N10500",
@@ -6547,7 +6547,7 @@
       "orig_tc": "荃灣(青山公路)",
       "dest_tc": "圓玄學院",
       "special_remark_tc": "",
-      "special_remark_en": "On Specific Day Only",
+      "special_remark_en": "",
       "stops": [
         "CA07N16100",
         "TU05T10000",
@@ -6596,7 +6596,7 @@
       "orig_tc": "荃灣西站",
       "dest_tc": "油塘",
       "special_remark_tc": "",
-      "special_remark_en": "Monday to Friday",
+      "special_remark_en": "",
       "stops": [
         "TS24T14000",
         "SH03E11300",
@@ -6741,7 +6741,7 @@
       "orig_tc": "荃灣西站",
       "dest_tc": "油塘",
       "special_remark_tc": "",
-      "special_remark_en": "Saturday, Sunday & PH",
+      "special_remark_en": "",
       "stops": [
         "TS24T14000",
         "SH03E11300",
@@ -6819,7 +6819,7 @@
       "orig_tc": "荃灣(愉景新城)",
       "dest_tc": "北潭涌",
       "special_remark_tc": "",
-      "special_remark_en": "Saturday, Sunday & PH",
+      "special_remark_en": "",
       "stops": [
         "DI02T11000",
         "TA03S10300",
@@ -6895,7 +6895,7 @@
       "orig_tc": "荃灣西站",
       "dest_tc": "油塘",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS24T14000",
         "SH03E11300",
@@ -7179,7 +7179,7 @@
       "orig_tc": "葵涌(安蔭邨)",
       "dest_tc": "尖沙咀東",
       "special_remark_tc": "",
-      "special_remark_en": "Peak Monday to Saturday",
+      "special_remark_en": "",
       "stops": [
         "ON02T10500",
         "TA20N10000",
@@ -7248,8 +7248,8 @@
       "dest_en": "TSUEN WAN WEST STATION",
       "orig_tc": "梨木樹",
       "dest_tc": "荃灣西站",
-      "special_remark_tc": "由梨木樹開出",
-      "special_remark_en": "Early Morning Departures from Lei Muk Shue B/T",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LE07T11000",
         "WO04S10900",
@@ -7440,7 +7440,7 @@
       "orig_tc": "紅磡香港體育館",
       "dest_tc": "石圍角",
       "special_remark_tc": "",
-      "special_remark_en": "On Specific Day Only",
+      "special_remark_en": "",
       "stops": [
         "HO05T10000",
         "HI03N10750",
@@ -7508,7 +7508,7 @@
       "orig_tc": "梨木樹",
       "dest_tc": "尖沙咀東(麼地道)",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Monday to Friday Only",
+      "special_remark_en": "",
       "stops": [
         "LE07T11500",
         "WO04S11000",
@@ -7615,7 +7615,7 @@
       "orig_tc": "奧運站",
       "dest_tc": "葵盛(中)",
       "special_remark_tc": "",
-      "special_remark_en": "早上特別班",
+      "special_remark_en": "",
       "stops": [
         "OL01T12000",
         "TA14N09000",
@@ -7679,7 +7679,7 @@
       "orig_tc": "葵涌邨",
       "dest_tc": "油麻地",
       "special_remark_tc": "",
-      "special_remark_en": "Express Service",
+      "special_remark_en": "",
       "stops": [
         "KW15T12000",
         "TA27E12000",
@@ -7901,7 +7901,7 @@
       "orig_tc": "荃灣(海濱花園)",
       "dest_tc": "碩門邨",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Monday to Friday Only",
+      "special_remark_en": "",
       "stops": [
         "RI01T10500",
         "WI02N09500",
@@ -7981,7 +7981,7 @@
       "orig_tc": "葵盛(中)",
       "dest_tc": "平田",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Monday to Frid",
+      "special_remark_en": "",
       "stops": [
         "KW05W11000",
         "KW06K13000",
@@ -8049,7 +8049,7 @@
       "orig_tc": "葵芳站",
       "dest_tc": "荃灣華人永遠墳場",
       "special_remark_tc": "",
-      "special_remark_en": "On Specific Day Only",
+      "special_remark_en": "",
       "stops": [
         "KW08S10500",
         "WI01S10000",
@@ -8224,8 +8224,8 @@
       "dest_en": "LAGUNA CITY",
       "orig_tc": "荃灣(麗城花園)",
       "dest_tc": "麗港城",
-      "special_remark_tc": "經長荔街",
-      "special_remark_en": "Via Cheung Lai Street",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HO09W09500",
         "CA07S44600",
@@ -8273,7 +8273,7 @@
       "orig_tc": "葵興站",
       "dest_tc": "平田",
       "special_remark_tc": "",
-      "special_remark_en": "Evening Peak Monday to Frid",
+      "special_remark_en": "",
       "stops": [
         "KW04N10000",
         "KW01S13000",
@@ -8314,7 +8314,7 @@
       "orig_tc": "葵涌邨",
       "dest_tc": "平田",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KW15T12000",
         "TA27E12000",
@@ -8529,7 +8529,7 @@
       "orig_tc": "石蔭東邨",
       "dest_tc": "觀塘碼頭",
       "special_remark_tc": "",
-      "special_remark_en": "Shek Yam East Estate Morning Special Trips",
+      "special_remark_en": "",
       "stops": [
         "TA20S10000",
         "SH11S10000",
@@ -8643,8 +8643,8 @@
       "dest_en": "KWAI FONG (SOUTH)",
       "orig_tc": "烏溪沙站",
       "dest_tc": "葵芳(南)",
-      "special_remark_tc": "以葵芳南為尾站",
-      "special_remark_en": "Terminate at Kwai Fong South",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WU01T11000",
         "SA03N16000",
@@ -8711,7 +8711,7 @@
       "orig_tc": "青衣(長安邨)",
       "dest_tc": "尖沙咀東",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "CH05T13500",
         "FU05S10000",
@@ -8788,7 +8788,7 @@
       "orig_tc": "紅磡香港體育館",
       "dest_tc": "青衣(長青邨)",
       "special_remark_tc": "",
-      "special_remark_en": "On Specific Day Only",
+      "special_remark_en": "",
       "stops": [
         "HO05T10000",
         "CA07N12500",
@@ -9362,7 +9362,7 @@
       "orig_tc": "青衣(長康邨)",
       "dest_tc": "維港灣",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Monday to Satu",
+      "special_remark_en": "",
       "stops": [
         "CH04T10000",
         "CH14E10500",
@@ -9386,7 +9386,7 @@
       "orig_tc": "青衣(長宏邨)",
       "dest_tc": "葵盛",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Only",
+      "special_remark_en": "",
       "stops": [
         "CH21T10000",
         "LI03S10500",
@@ -9804,8 +9804,8 @@
       "dest_en": "KWAI HING STATION",
       "orig_tc": "青衣(長安邨)",
       "dest_tc": "葵興站",
-      "special_remark_tc": "由長安開出往葵興站",
-      "special_remark_en": "Express Service Via Tsing Tsuen Bridge",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH05T12500",
         "HI03N10000",
@@ -10093,8 +10093,8 @@
       "dest_en": "NGONG SHUEN CHAU BARRACKS",
       "orig_tc": "大圍站",
       "dest_tc": "昂船洲軍營",
-      "special_remark_tc": "於2026/6月20至21日期間提供服務(0830-1130)",
-      "special_remark_en": "On 20-21 Jun 2026 Only(0830-1130)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA11T11000",
         "TS21S10500",
@@ -10416,8 +10416,8 @@
       "dest_en": "KWAI SHING (EAST)",
       "orig_tc": "秦石",
       "dest_tc": "葵盛(東)",
-      "special_remark_tc": "不停沙田市中心總站",
-      "special_remark_en": "Omit Shatin Central Bus Terminus",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH16T11000",
         "SH08N12500",
@@ -10701,7 +10701,7 @@
       "orig_tc": "青富苑",
       "dest_tc": "將軍澳工業邨",
       "special_remark_tc": "",
-      "special_remark_en": "Express Route",
+      "special_remark_en": "",
       "stops": [
         "TS08S12000",
         "CH14W10000",
@@ -10780,7 +10780,7 @@
       "orig_tc": "青富苑",
       "dest_tc": "荃灣西站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS08S11250",
         "CH14W10000",
@@ -10956,8 +10956,8 @@
       "dest_en": "TSING YI FERRY",
       "orig_tc": "廣源",
       "dest_tc": "青衣碼頭",
-      "special_remark_tc": "不經沙田市中心",
-      "special_remark_en": "omit Shatin Central Bus Terminus",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW07T12500",
         "SI02W12500",
@@ -11088,7 +11088,9 @@
         "TS30T10000",
         "LU13S10000",
         "TU17S10000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "52S",
@@ -11102,7 +11104,9 @@
         "TU17N16300",
         "LU13N10000",
         "TS30T10500"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "52X",
@@ -11471,7 +11475,9 @@
         "LU13S10000",
         "TU05N11500",
         "TU04T10000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "56S",
@@ -11486,7 +11492,9 @@
         "TU02T14000",
         "LU13N10000",
         "TS30T10500"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "57M",
@@ -11622,8 +11630,8 @@
       "dest_en": "KWAI FONG STATION",
       "orig_tc": "屯門(建生邨)",
       "dest_tc": "葵芳站",
-      "special_remark_tc": "由建生開出",
-      "special_remark_en": "Departed from Kin Sang",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KI01T10000",
         "TS14S10000",
@@ -11653,8 +11661,8 @@
       "dest_en": "KWAI FONG STATION",
       "orig_tc": "屯門(寶田邨)",
       "dest_tc": "葵芳站",
-      "special_remark_tc": "由寶田開出",
-      "special_remark_en": "Departed from Po Tin",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO04T11500",
         "TS14S10000",
@@ -11776,8 +11784,8 @@
       "dest_en": "MONG KOK EAST STATION",
       "orig_tc": "屯門(建生邨)",
       "dest_tc": "旺角東站",
-      "special_remark_tc": "由建生開出",
-      "special_remark_en": "Departed from Kin Sang",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KI01T10500",
         "TS14S10000",
@@ -11911,8 +11919,8 @@
       "dest_en": "TSUEN WAN STATION",
       "orig_tc": "悅湖山莊",
       "dest_tc": "荃灣站",
-      "special_remark_tc": "由悅湖山莊開出",
-      "special_remark_en": "Departed from Yuet Wu Villa",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WU05N10000",
         "WU02W10000",
@@ -11933,8 +11941,8 @@
       "dest_en": "TSUEN WAN STATION",
       "orig_tc": "新屯門中心",
       "dest_tc": "荃灣站",
-      "special_remark_tc": "由新屯門中心開出",
-      "special_remark_en": "Departed from Sun Tuen Mun Centre",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TU01W10500",
         "LU06N10500",
@@ -12020,8 +12028,8 @@
       "dest_en": "MONG KOK EAST STATION",
       "orig_tc": "新屯門中心",
       "dest_tc": "旺角東站",
-      "special_remark_tc": "由新屯門中心開出",
-      "special_remark_en": "Departed from Sun Tuen Mun Centre",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TU01W10500",
         "LU06N10500",
@@ -12049,8 +12057,8 @@
       "dest_en": "MONG KOK EAST STATION",
       "orig_tc": "屯門(龍門居)",
       "dest_tc": "旺角東站",
-      "special_remark_tc": "由龍門居開出",
-      "special_remark_en": "Departed from Lung Mun",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LU01T11000",
         "LU06N11000",
@@ -12360,7 +12368,9 @@
         "TU06N09500",
         "TU06N10500",
         "WO02T10000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "61S",
@@ -12375,7 +12385,9 @@
         "TU06S09750",
         "TU06S10500",
         "TU02T15000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "61X",
@@ -12639,8 +12651,8 @@
       "dest_en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
       "orig_tc": "朗天苑",
       "dest_tc": "屯門公路轉車站 (屯門方向)",
-      "special_remark_tc": "經唐人新村",
-      "special_remark_en": "Via Tong Yan San Tsuen",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LO10T10000",
         "CA07S20000",
@@ -12688,8 +12700,8 @@
       "dest_en": "LAM TSUEN WISHING TREE",
       "orig_tc": "大埔墟站",
       "dest_tc": "林村許願樹",
-      "special_remark_tc": "於2月17日至3月3日期間提供服務",
-      "special_remark_en": "On 17 Feb to 3 Mar Only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA10T09500",
         "TA22W06000",
@@ -12925,8 +12937,8 @@
       "dest_en": "TAI PO (TAI WO)",
       "orig_tc": "梧桐寨 (白牛石)",
       "dest_tc": "大埔(太和)",
-      "special_remark_tc": "以太和為尾站",
-      "special_remark_en": "Terminate at Tai Wo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LA07E12000",
         "LA07E12250",
@@ -12954,8 +12966,8 @@
       "dest_en": "SHEUNG TSUEN",
       "orig_tc": "錦上路站",
       "dest_tc": "上村",
-      "special_remark_tc": "以上村球場為尾站",
-      "special_remark_en": "Terminate at Sheung Tsuen Playground",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA12T11000",
         "TU15N10250",
@@ -13358,8 +13370,8 @@
       "dest_en": "KWAI FONG STATION",
       "orig_tc": "屯門(兆康苑)",
       "dest_tc": "葵芳站",
-      "special_remark_tc": "由兆康苑開出",
-      "special_remark_en": "Departed from Siu Hong Court",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SI01T10000",
         "TS05N13000",
@@ -13850,8 +13862,8 @@
       "dest_en": "MONG KOK (PARK AVENUE)",
       "orig_tc": "元朗(西)",
       "dest_tc": "旺角(柏景灣)",
-      "special_remark_tc": "由元朗西開出",
-      "special_remark_en": "Departed from Yuen Long West",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "YU03T11000",
         "CA07N52250",
@@ -13885,8 +13897,8 @@
       "dest_en": "MONG KOK (PARK AVENUE)",
       "orig_tc": "朗屏邨悅屏樓",
       "dest_tc": "旺角(柏景灣)",
-      "special_remark_tc": "由朗屏邨開出",
-      "special_remark_en": "Departed from Long Ping Estate",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WA14E10500",
         "FO05E10000",
@@ -14065,8 +14077,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "天恩邨",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "不經濕地公園路",
-      "special_remark_en": "Omit Wetland Park Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI09T11000",
         "TI17E09500",
@@ -14267,8 +14279,8 @@
       "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
       "orig_tc": "天耀",
       "dest_tc": "高鐵(西九龍站)",
-      "special_remark_tc": "天耀特別班(經天水圍站)",
-      "special_remark_en": "Tin Yiu Special Departure (via Tin Shui Wai Statio",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI03T10500",
         "TI07S11000",
@@ -14354,8 +14366,8 @@
       "dest_en": "FANLING (WAH MING)",
       "orig_tc": "上水(清河)",
       "dest_tc": "粉嶺(華明)",
-      "special_remark_tc": "由清河開出",
-      "special_remark_en": "Originate from Ching Ho",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH23T11500",
         "CH39W10500",
@@ -14581,8 +14593,8 @@
       "dest_en": "FU SHIN / FU HENG / FU TIP (CIRCULAR)",
       "orig_tc": "大埔(太和)",
       "dest_tc": "富善/富亨/富蝶(循環線)",
-      "special_remark_tc": "只於 17/2/2026凌晨 提供服務",
-      "special_remark_en": "On 17/2/2026 mid-night only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA12T11250",
         "TI08E10000",
@@ -14850,8 +14862,8 @@
       "dest_en": "TAI PO MARKET STATION",
       "orig_tc": "大美督",
       "dest_tc": "大埔墟站",
-      "special_remark_tc": "經 鳳園",
-      "special_remark_en": "VIA FUNG YUEN",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA06T10000",
         "TI08W10000",
@@ -15119,8 +15131,8 @@
       "dest_en": "TAI PO CENTRAL",
       "orig_tc": "粉嶺(華明)",
       "dest_tc": "大埔中心",
-      "special_remark_tc": "以大埔中心為尾站",
-      "special_remark_en": "Terminate at Tai Po Central",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WA01T11000",
         "PA05W10000",
@@ -15341,8 +15353,8 @@
       "dest_en": "SHEUNG SHUI STATION",
       "orig_tc": "全安路(那打素醫院)",
       "dest_tc": "上水站",
-      "special_remark_tc": "以上水為尾站",
-      "special_remark_en": "Terminate at Sheung Shui",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH18T10500",
         "CH23E13500",
@@ -15416,7 +15428,7 @@
       "orig_tc": "荃灣(如心廣場)",
       "dest_tc": "大埔(富善)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS23T12500",
         "TA10N11500",
@@ -15484,7 +15496,7 @@
       "orig_tc": "荃灣(如心廣場)",
       "dest_tc": "香港教育大學",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS23T12500",
         "TA10N11500",
@@ -15590,8 +15602,8 @@
       "dest_en": "MAN KAM TO (SAN UK LING)",
       "orig_tc": "上水",
       "dest_tc": "文錦渡(新屋嶺)",
-      "special_remark_tc": "經缸瓦甫",
-      "special_remark_en": "Via Kong Nga Po",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH18T11000",
         "SA09N10000",
@@ -15671,8 +15683,8 @@
       "dest_en": "TAI MEI TUK",
       "orig_tc": "荃灣(如心廣場)",
       "dest_tc": "大美督",
-      "special_remark_tc": "經 大埔中心五期、鳳園",
-      "special_remark_en": "VIA FUNG YUEN",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS23T12500",
         "YE05E10500",
@@ -15740,7 +15752,7 @@
       "orig_tc": "粉嶺站",
       "dest_tc": "和合石(橋頭路)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "PA05E10000",
         "KI02T10000"
@@ -15754,8 +15766,8 @@
       "dest_en": "WO HOP SHEK (KIU TAU ROAD)",
       "orig_tc": "粉嶺站",
       "dest_tc": "和合石(橋頭路)",
-      "special_remark_tc": "經銘賢路(只限指定日子)",
-      "special_remark_en": "Via Ming Yin Road(Specific Day Only)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PA05E10000",
         "WO02T11000",
@@ -15832,8 +15844,8 @@
       "dest_en": "TAI PO (FU SHIN)",
       "orig_tc": "荃灣(如心廣場)",
       "dest_tc": "大埔(富善)",
-      "special_remark_tc": "經大埔中心",
-      "special_remark_en": "Via Tai Po Central",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS23T12500",
         "TA10N11500",
@@ -16072,7 +16084,7 @@
       "orig_tc": "九龍灣",
       "dest_tc": "大埔中心",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KO02T10500",
         "WA12N09850",
@@ -16350,7 +16362,7 @@
       "orig_tc": "觀塘碼頭",
       "dest_tc": "香港教育大學",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KW12T14500",
         "KI03N11500",
@@ -16382,8 +16394,8 @@
       "dest_en": "SAM MUN TSAI (CIRCULAR)",
       "orig_tc": "大埔墟站",
       "dest_tc": "三門仔(循環線)",
-      "special_remark_tc": "先經香港教育大學",
-      "special_remark_en": "Via The Education University of HK",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA10T14000",
         "WA09N10500",
@@ -16431,8 +16443,8 @@
       "dest_en": "SAM MUN TSAI (CIRCULAR)",
       "orig_tc": "大埔墟站",
       "dest_tc": "三門仔(循環線)",
-      "special_remark_tc": "先經三門仔",
-      "special_remark_en": "Via Sam Mun Tsai first",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA10T14000",
         "WA09N10500",
@@ -16792,8 +16804,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "運頭塘邨",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "運頭塘特別班",
-      "special_remark_en": "Sp. Dept from Wan Tau Tong",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WA03T12000",
         "TA21S12000",
@@ -16818,8 +16830,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "廣福邨",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "廣福邨特別班",
-      "special_remark_en": "Sp. Dept from Kwong Fuk Estate",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA21S12000",
         "TA38S10500",
@@ -17207,8 +17219,8 @@
       "dest_en": "LONG PING ESTATE",
       "orig_tc": "粉嶺(華明)",
       "dest_tc": "朗屏邨",
-      "special_remark_tc": "由華明開出",
-      "special_remark_en": "Oringinate from Wah Ming",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WA01T12500",
         "PA05W10250",
@@ -17410,8 +17422,8 @@
       "dest_en": "YUEN LONG (WEST)",
       "orig_tc": "上水",
       "dest_tc": "元朗(西)",
-      "special_remark_tc": "以元朗(西)為尾站",
-      "special_remark_en": "Terminate at Yuen Long West",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH18T12250",
         "SA09N10000",
@@ -17465,8 +17477,8 @@
       "dest_en": "PAT HEUNG ROAD",
       "orig_tc": "上水",
       "dest_tc": "八鄉路",
-      "special_remark_tc": "以大欖隧道轉車站為尾站",
-      "special_remark_en": "Terminate at Tai Lam Tunnel BBI",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH18T12250",
         "SA09N10000",
@@ -17543,7 +17555,7 @@
       "orig_tc": "皇后山",
       "dest_tc": "粉嶺站 (循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Lok Wo St. Stop interchange to A43/P to Airport at",
+      "special_remark_en": "",
       "stops": [
         "QU03T10000",
         "LU14W20500",
@@ -17570,8 +17582,8 @@
       "dest_en": "FANLING STATION (CIRCULAR)",
       "orig_tc": "皇后山",
       "dest_tc": "粉嶺站 (循環線) [不經山麗]",
-      "special_remark_tc": "不停山麗苑",
-      "special_remark_en": "Omit Shan Lai Court",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "QU03T10000",
         "SH02S20000",
@@ -17597,8 +17609,8 @@
       "dest_en": "FANLING STATION",
       "orig_tc": "皇后山",
       "dest_tc": "只往粉嶺名都",
-      "special_remark_tc": "以粉嶺名都為尾站",
-      "special_remark_en": "Terminate at Fanling Town Center",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "QU03T10000",
         "SH02S20000",
@@ -17616,8 +17628,8 @@
       "dest_en": "FANLING STATION",
       "orig_tc": "山麗苑",
       "dest_tc": "只往粉嶺名都",
-      "special_remark_tc": "山麗苑開，粉嶺名都為尾站",
-      "special_remark_en": "Originate from Shan Lai Court, Terminate at Fanlin",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LU14W20500",
         "SH02S20000",
@@ -17635,8 +17647,8 @@
       "dest_en": "QUEEN'S HILL",
       "orig_tc": "粉嶺中心",
       "dest_tc": "皇后山",
-      "special_remark_tc": "粉嶺中心開出",
-      "special_remark_en": "Originate from Fanling Centre",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA12W10000",
         "SA12W10900",
@@ -17718,8 +17730,8 @@
       "dest_en": "SHEUNG SHUI (CHOI YUEN)",
       "orig_tc": "皇后山",
       "dest_tc": "上水(彩園)",
-      "special_remark_tc": "不停粉嶺南",
-      "special_remark_en": "Express, omit Fanling South",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "QU03T10500",
         "LU14W20250",
@@ -18018,8 +18030,8 @@
       "dest_en": "TA KWU LING (LIANTANG PORT)",
       "orig_tc": "彩石邨",
       "dest_tc": "打鼓嶺 (蓮塘口岸)",
-      "special_remark_tc": "總站經行人隧道直達香園圍口岸",
-      "special_remark_en": "Access Heung Yuen Wai Control Point via subway fro",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH17E09500",
         "SA09S10000",
@@ -18067,8 +18079,8 @@
       "dest_en": "TA KWU LING (LIANTANG PORT)",
       "orig_tc": "粉嶺站",
       "dest_tc": "打鼓嶺 (蓮塘口岸)",
-      "special_remark_tc": "由粉嶺站開出不停聯和墟",
-      "special_remark_en": "Originate from Fanling Station,omit Luen Wo Hui",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "FA02W10250",
         "SH02N10500",
@@ -18185,8 +18197,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "美林",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "不經田心、顯徑及隆亨",
-      "special_remark_en": "Omit Tin Sam, Hin Keng and Lung Hang",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ME02T10500",
         "ME04N10000",
@@ -18400,8 +18412,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "乙明邨街",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "不經彩虹",
-      "special_remark_en": "Omit Choi Hung",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "JA01N10000",
         "SH01N11000",
@@ -18749,7 +18761,7 @@
       "orig_tc": "美田",
       "dest_tc": "旺角 (弼街)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "ME03T10500",
         "ME02W12500",
@@ -18881,7 +18893,7 @@
       "orig_tc": "白石角",
       "dest_tc": "大圍站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "PO24S09000",
         "FO04S10000",
@@ -19075,8 +19087,8 @@
       "dest_en": "SHATIN CENTRAL",
       "orig_tc": "碩門邨",
       "dest_tc": "沙田巿中心",
-      "special_remark_tc": "特別班次：平日早上由碩門開出",
-      "special_remark_en": "Special Departures from Shek Mun on Weekdays",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH31T10000",
         "SI02W13500",
@@ -19256,8 +19268,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "黃泥頭",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "特別班次：平日早上由黃泥頭總站開出",
-      "special_remark_en": "Special Departures from Wong Nai Tai on Weekdays M",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WO03T11500",
         "SI02W12000",
@@ -19311,8 +19323,8 @@
       "dest_en": "LOK FU, KWONG YUEN & CHEVALIER GARDEN",
       "orig_tc": "富安花園",
       "dest_tc": "黃大仙，樂富，廣源，富安花園",
-      "special_remark_tc": "循環線",
-      "special_remark_en": "Circular",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH09T10000",
         "AH01S10000",
@@ -20402,8 +20414,8 @@
       "dest_en": "HUNG HOM STATION",
       "orig_tc": "錦英苑",
       "dest_tc": "紅磡站",
-      "special_remark_tc": "特快不經亞公角街及大涌橋路",
-      "special_remark_en": "omit A Kung Kok Street and Tai Chung Kiu Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA03T10500",
         "KA07E12500",
@@ -20524,8 +20536,8 @@
       "dest_en": "HUNG HOM STATION",
       "orig_tc": "馬鞍山市中心",
       "dest_tc": "紅磡站",
-      "special_remark_tc": "不經恆德街及亞公角街",
-      "special_remark_en": "omit Hang Tak Street and A Kung Kok Street",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "MA01T13000",
         "SA03N19500",
@@ -20558,8 +20570,8 @@
       "dest_en": "HUNG HOM STATION",
       "orig_tc": "錦英苑",
       "dest_tc": "紅磡站",
-      "special_remark_tc": "不經馬鞍山市中心",
-      "special_remark_en": "omit Ma On Shan Town Centre Bus Terminus",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA03T10500",
         "KA07E12500",
@@ -20688,8 +20700,8 @@
       "dest_en": "KAM YING COURT (CIRCULAR)",
       "orig_tc": "大學站",
       "dest_tc": "錦英苑(循環線)",
-      "special_remark_tc": "不入頌安",
-      "special_remark_en": "Omit Chung On",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "UN01T11000",
         "MA02N01000",
@@ -20716,8 +20728,8 @@
       "dest_en": "UNIVERSITY STATION",
       "orig_tc": "錦英苑",
       "dest_tc": "大學站",
-      "special_remark_tc": "錦英特別班",
-      "special_remark_en": "Sp. Dept from Kam Ying",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA07E10500",
         "KA07E11500",
@@ -20738,8 +20750,8 @@
       "dest_en": "UNIVERSITY STATION",
       "orig_tc": "馬鞍山市中心",
       "dest_tc": "大學站",
-      "special_remark_tc": "馬鞍山市中心特別班",
-      "special_remark_en": "Sp. Dept from Ma On Shan Town Centre",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "MA01T13000",
         "CH19T10000",
@@ -20757,8 +20769,8 @@
       "dest_en": "LEE ON",
       "orig_tc": "大學站",
       "dest_tc": "利安",
-      "special_remark_tc": "以利安為尾站",
-      "special_remark_en": "Terminate at Lee On",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "UN01T11000",
         "MA02N01000",
@@ -20797,7 +20809,7 @@
       "orig_tc": "紅磡香港體育館",
       "dest_tc": "烏溪沙站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "HO05T10750",
         "TA02N13700",
@@ -20845,7 +20857,7 @@
       "dest_en": "KAM YING COURT (CIRCULAR)",
       "orig_tc": "大學站",
       "dest_tc": "錦英苑 (循環線)",
-      "special_remark_tc": "(下午往錦英苑循環線)",
+      "special_remark_tc": "",
       "special_remark_en": "",
       "stops": [
         "UN01T10750",
@@ -20901,8 +20913,8 @@
       "dest_en": "TAI WAI STATION",
       "orig_tc": "中秀茂坪",
       "dest_tc": "大圍站",
-      "special_remark_tc": "經安泰及大老山隧道",
-      "special_remark_en": "VIA: ON TAI AND TATE'S CARIN TUNNEL",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA06T11500",
         "SA14S31500",
@@ -21112,8 +21124,8 @@
       "dest_en": "PING TIN",
       "orig_tc": "穗禾苑",
       "dest_tc": "平田",
-      "special_remark_tc": "經九龍灣",
-      "special_remark_en": "Via Kowloon Bay",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SU01T10000",
         "SU01N10000",
@@ -21354,8 +21366,8 @@
       "dest_en": "KWUN TONG (TSUI PING ROAD)",
       "orig_tc": "恆安",
       "dest_tc": "觀塘(翠屏道)",
-      "special_remark_tc": "不經大涌橋路、小瀝源道、斧山道、彩虹通道及太子道",
-      "special_remark_en": "omit Tai Chung Kiu Road, Siu Lek Yuen Road, Hammer",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HE01T11000",
         "HA03W11200",
@@ -21544,8 +21556,8 @@
       "dest_en": "LAM TIN STATION",
       "orig_tc": "馬鞍山市中心",
       "dest_tc": "藍田站",
-      "special_remark_tc": "不經亞公角",
-      "special_remark_en": "Omit A Kung Kok",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA03N19000",
         "SA03N19700",
@@ -21607,7 +21619,7 @@
       "orig_tc": "水泉澳",
       "dest_tc": "烏溪沙站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "SH33T13000",
         "TO11E10000",
@@ -21779,8 +21791,8 @@
       "dest_en": "TSEUNG KWAN O (CHOI MING)",
       "orig_tc": "碩門邨",
       "dest_tc": "將軍澳(彩明)",
-      "special_remark_tc": "(經大老山隧道及將軍澳隧道)",
-      "special_remark_en": "(Via Tate's Carin Tunnel & TKO Tunnel)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH31T10000",
         "SI02W13500",
@@ -22300,8 +22312,8 @@
       "dest_en": "DIAMOND HILL STATION",
       "orig_tc": "西貢",
       "dest_tc": "鑽石山站",
-      "special_remark_tc": "(特快班次經白沙灣、匡湖居及彩虹)",
-      "special_remark_en": "(Express service via Pak Sha Wan, Marina Cove & Ch",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA01T10000",
         "PO09S10000",
@@ -22348,8 +22360,8 @@
       "dest_en": "STAR FERRY",
       "orig_tc": "西貢",
       "dest_tc": "尖沙咀碼頭",
-      "special_remark_tc": "(經九龍城、紅磡站)",
-      "special_remark_en": "(Via Kowloon City, Hung Hom Station)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA01T10500",
         "PO09S10000",
@@ -22624,8 +22636,8 @@
       "dest_en": "MONG KOK (PARK AVENUE)",
       "orig_tc": "寶林",
       "dest_tc": "旺角(柏景灣)",
-      "special_remark_tc": "(經樂華)",
-      "special_remark_en": "(Via Lok Wah)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO01T11500",
         "PO05W10600",
@@ -22998,8 +23010,8 @@
       "dest_en": "TAI PO INDUSTRIAL ESTATE",
       "orig_tc": "將軍澳中心",
       "dest_tc": "大埔工業邨",
-      "special_remark_tc": "(特別班由將軍澳中心開出)",
-      "special_remark_en": "(Special departure depart from Park Central)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO19W10250",
         "LA11W10500",
@@ -23104,8 +23116,8 @@
       "dest_en": "WONG SHEK PIER",
       "orig_tc": "鑽石山站",
       "dest_tc": "黃石碼頭",
-      "special_remark_tc": "(經西貢市中心、北潭涌)",
-      "special_remark_en": "(Via Sai Kung Town Centre, Pak Tam Chung)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "DI01T10500",
         "FU07E12000",
@@ -23278,8 +23290,8 @@
       "dest_en": "NGAU TAU KOK STATION",
       "orig_tc": "將軍澳工業邨",
       "dest_tc": "牛頭角站",
-      "special_remark_tc": "(特別班以牛頭角站為終點站)",
-      "special_remark_en": "(Special departure teminate at Ngau Tau Kok Statio",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS22T11000",
         "CH35E10000",
@@ -23353,8 +23365,8 @@
       "dest_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
       "orig_tc": "牛頭角站",
       "dest_tc": "坑口(北)(將軍澳醫院)",
-      "special_remark_tc": "(特別班由牛頭角站開出)",
-      "special_remark_en": "(Special departure depart from Ngau Tau Kok Statio",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16E18000",
         "KW16E21000",
@@ -23550,8 +23562,8 @@
       "dest_en": "TSIM SHA TSUI EAST",
       "orig_tc": "坑口(北)(將軍澳醫院)",
       "dest_tc": "尖沙咀東",
-      "special_remark_tc": "(經寶順路)",
-      "special_remark_en": "(via Po Shun Road)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HA02T12500",
         "PO06W10000",
@@ -23581,8 +23593,8 @@
       "dest_en": "TSIM SHA TSUI EAST",
       "orig_tc": "康城站",
       "dest_tc": "尖沙咀東",
-      "special_remark_tc": "(康城站開)",
-      "special_remark_en": "(from LOHAS Park Station)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LO09T10000",
         "WA21S10000",
@@ -23616,8 +23628,8 @@
       "dest_en": "TSIM SHA TSUI EAST",
       "orig_tc": "坑口(北)(將軍澳醫院)",
       "dest_tc": "尖沙咀東",
-      "special_remark_tc": "(不經重華路及培成路)",
-      "special_remark_en": "(not via Chung Wa Road and Pui Shing Road)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HA02T12500",
         "PO06W10000",
@@ -24191,8 +24203,8 @@
       "dest_en": "DES VOEUX RD CENTRAL",
       "orig_tc": "觀塘(裕民坊)",
       "dest_tc": "德輔道中",
-      "special_remark_tc": "以中環置地廣場站為尾站",
-      "special_remark_en": "Terminate at The Landmark bus stop, Central",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16T13000",
         "NG05W10000",
@@ -24226,8 +24238,8 @@
       "dest_en": "BELCHER'S STREET",
       "orig_tc": "觀塘(裕民坊)",
       "dest_tc": "卑路乍街",
-      "special_remark_tc": "以聯邦新樓站為終點站",
-      "special_remark_en": "Terminate at Luen Pong Apartment bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16T13000",
         "NG05W10000",
@@ -24272,8 +24284,8 @@
       "dest_en": "KENNEDY TOWN",
       "orig_tc": "木廠街",
       "dest_tc": "堅尼地城",
-      "special_remark_tc": "由木廠街站開出",
-      "special_remark_en": "Originate from Mok Cheong Street bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "MA04S13500",
         "MA07S11500",
@@ -24376,8 +24388,8 @@
       "dest_en": "KENNEDY TOWN",
       "orig_tc": "觀塘(裕民坊)",
       "dest_tc": "堅尼地城",
-      "special_remark_tc": "經香港輔助警察隊總部",
-      "special_remark_en": "Via HK Aux. Police Force HQ",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16T13000",
         "NG05W10000",
@@ -24406,8 +24418,8 @@
       "dest_en": "KENNEDY TOWN",
       "orig_tc": "觀塘(裕民坊)",
       "dest_tc": "堅尼地城",
-      "special_remark_tc": "經九龍灣商貿區",
-      "special_remark_en": "Via Kowloon Bay Commercial Area",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16T13000",
         "NG05W10000",
@@ -24593,7 +24605,7 @@
       "orig_tc": "筲箕灣",
       "dest_tc": "美孚",
       "special_remark_tc": "",
-      "special_remark_en": "Peak Special",
+      "special_remark_en": "",
       "stops": [
         "SH20T10000",
         "OI01S10000",
@@ -25302,8 +25314,8 @@
       "dest_en": "WAH KWAI",
       "orig_tc": "九龍灣",
       "dest_tc": "華貴",
-      "special_remark_tc": "經海洋公園",
-      "special_remark_en": "via Ocean Park",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KO02T10000",
         "WA12N10000",
@@ -25506,8 +25518,8 @@
       "dest_en": "CAUSEWAY BAY (PENNINGTON STREET)",
       "orig_tc": "九龍城(盛德街)",
       "dest_tc": "銅鑼灣(邊寧頓街)",
-      "special_remark_tc": "以銅鑼灣邊寧頓街站為尾站",
-      "special_remark_en": "Terminate at Pennington Street bus stop, Causeway",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH24N10000",
         "MA04S12000",
@@ -25552,7 +25564,8 @@
         "WA12S07000",
         "WA12S07500",
         "KA01T11500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "108R",
@@ -25582,7 +25595,8 @@
         "WA12S07000",
         "WA12S07500",
         "KA01T11500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "109",
@@ -25658,7 +25672,7 @@
       "orig_tc": "筲箕灣",
       "dest_tc": "尖沙咀(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Circular",
+      "special_remark_en": "",
       "stops": [
         "SH20T10500",
         "SH10W11100",
@@ -25717,8 +25731,8 @@
       "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
       "orig_tc": "筲箕灣",
       "dest_tc": "尖沙咀東(麼地道)",
-      "special_remark_tc": "以麼地道總站為尾站",
-      "special_remark_en": "Terminate at Tsim Sha Tsui East Mody Road B/T",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH20T10500",
         "SH10W11100",
@@ -25752,8 +25766,8 @@
       "dest_en": "TSIM SHA TSUI (CIRCULAR)",
       "orig_tc": "筲箕灣",
       "dest_tc": "尖沙咀(循環線)",
-      "special_remark_tc": "經西九龍站",
-      "special_remark_en": "Via West Kowloon Station",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH20T10500",
         "SH10W11100",
@@ -25813,8 +25827,8 @@
       "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
       "orig_tc": "筲箕灣",
       "dest_tc": "尖沙咀東(麼地道)",
-      "special_remark_tc": "經西九龍站以麼地道總站為尾站",
-      "special_remark_en": "Via West Kowloon Station, terminate at Mody Road B",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH20T10500",
         "SH10W11100",
@@ -26010,7 +26024,8 @@
         "KW16E16750",
         "KW16E19500",
         "KW16T13500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "112",
@@ -26706,8 +26721,8 @@
       "dest_en": "CHEUNG SHA WAN (SHAM MONG ROAD)",
       "orig_tc": "小西灣(藍灣半島)",
       "dest_tc": "長沙灣(深旺道)",
-      "special_remark_tc": "經杏花村",
-      "special_remark_en": "Via Heng Fa Chuen",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SI02T12000",
         "FU10S10000",
@@ -26822,7 +26837,8 @@
         "CA07N22000",
         "LA10N10000",
         "BA01T10500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "148R",
@@ -26856,7 +26872,8 @@
         "LI03N10500",
         "CH21T10500",
         "CH05T12500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "160R",
@@ -26895,7 +26912,8 @@
         "CA07S22502",
         "HU05T10500",
         "HU07T12000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "168R",
@@ -26914,7 +26932,8 @@
         "CP01W01002",
         "CP01W01502",
         "YU03T14000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "168R",
@@ -26933,7 +26952,8 @@
         "CP01W01002",
         "CP01W01502",
         "YU03T14000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "170",
@@ -27085,8 +27105,8 @@
       "dest_en": "WAH FU (CENTRAL)",
       "orig_tc": "沙田站",
       "dest_tc": "華富(中)",
-      "special_remark_tc": "經海洋公園",
-      "special_remark_en": "Via Ocean Park",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH06T12000",
         "SH09E10500",
@@ -27302,8 +27322,8 @@
       "dest_en": "SOUTH HORIZONS",
       "orig_tc": "荔枝角",
       "dest_tc": "海怡半島",
-      "special_remark_tc": "經海洋公園",
-      "special_remark_en": "Via Ocean Park",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LA15T11500",
         "ME01S09500",
@@ -27348,8 +27368,8 @@
       "dest_en": "SOUTH HORIZONS",
       "orig_tc": "荔枝角",
       "dest_tc": "海怡半島",
-      "special_remark_tc": "不經海怡路",
-      "special_remark_en": "Not via South Horizon Drive",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LA15T11500",
         "ME01S09500",
@@ -27392,7 +27412,7 @@
       "orig_tc": "利東邨",
       "dest_tc": "荔枝角",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Special",
+      "special_remark_en": "",
       "stops": [
         "LE07K10000",
         "LE07K10500",
@@ -27429,7 +27449,7 @@
       "orig_tc": "海怡半島",
       "dest_tc": "荔枝角",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Special",
+      "special_remark_en": "",
       "stops": [
         "SO02T10000",
         "SO01N10000",
@@ -27489,7 +27509,8 @@
         "FA04S09502",
         "WO11E10000",
         "LU02T12000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "178R",
@@ -27517,7 +27538,8 @@
         "SH02N10252",
         "SH02N10752",
         "LU02T12000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "182",
@@ -27668,7 +27690,8 @@
         "WA21N08000",
         "WA21N09000",
         "LO09T10000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "203C",
@@ -27868,7 +27891,7 @@
       "orig_tc": "澤安",
       "dest_tc": "尖沙咀東(麼地道)",
       "special_remark_tc": "",
-      "special_remark_en": "Morning Peak Mon-Sat",
+      "special_remark_en": "",
       "stops": [
         "CH02K08500",
         "CO04E10000",
@@ -28005,7 +28028,7 @@
       "orig_tc": "樂富",
       "dest_tc": "翠竹花園(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LO01T11750",
         "CH19E10000",
@@ -28029,7 +28052,7 @@
       "orig_tc": "安達",
       "dest_tc": "坪石 / 彩虹站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "ON14E11500",
         "ON14W10500",
@@ -28066,8 +28089,8 @@
       "dest_en": "MONG KOK (CIRCULAR)",
       "orig_tc": "中秀茂坪",
       "dest_tc": "旺角(循環線)",
-      "special_remark_tc": "經: 安達、安泰",
-      "special_remark_en": "VIA: ON TAT, ON TAI",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA06T11000",
         "SA14S31500",
@@ -28150,8 +28173,8 @@
       "dest_en": "KOWLOON STATION",
       "orig_tc": "安達臣",
       "dest_tc": "九龍站",
-      "special_remark_tc": "(經尖沙咀)",
-      "special_remark_en": "(Via Tsim Sha Tsui)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "AN01T10250",
         "ON18S10000",
@@ -28278,8 +28301,8 @@
       "dest_en": "TSIM SHA TSUI (CIRCULAR)",
       "orig_tc": "安泰(南)(恆泰樓)",
       "dest_tc": "尖沙咀(循環線)",
-      "special_remark_tc": "(特別班經觀塘繞道)",
-      "special_remark_en": "(Special departure via Kwun Tong Bypass)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ON16K10000",
         "ON14E07500",
@@ -28370,8 +28393,8 @@
       "dest_en": "CHEUNG SHA WAN (KOM TSUN STREET)",
       "orig_tc": "油塘",
       "dest_tc": "長沙灣(甘泉街)",
-      "special_remark_tc": "經: 黃大仙、安泰及廣田",
-      "special_remark_en": "VIA: WONG TAI SIN, ON TAI, KWONG TIN",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "YA06T10000",
         "KO01N10500",
@@ -28418,8 +28441,8 @@
       "dest_en": "LAI CHI KOK STATION",
       "orig_tc": "寶達",
       "dest_tc": "荔枝角站",
-      "special_remark_tc": "(特別班由寶達開出)",
-      "special_remark_en": "(Special departure depart from Po Tat)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO05T10500",
         "ON14W10000",
@@ -28455,8 +28478,8 @@
       "dest_en": "LAI CHI KOK STATION",
       "orig_tc": "安秀道",
       "dest_tc": "荔枝角站",
-      "special_remark_tc": "(經深旺道)",
-      "special_remark_en": "(Via Sham Mong Road)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ON14W10000",
         "ON14W11000",
@@ -28635,8 +28658,8 @@
       "dest_en": "KOWLOON STATION",
       "orig_tc": "藍田(廣田邨)",
       "dest_tc": "九龍站",
-      "special_remark_tc": "(特別班不停曲街)",
-      "special_remark_en": "(Special departure omit Cooke Street)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LA05T11000",
         "PI01N10500",
@@ -28738,8 +28761,8 @@
       "dest_en": "TSIM SHA TSUI (CIRCULAR)",
       "orig_tc": "高嶺道",
       "dest_tc": "尖沙咀(循環線)",
-      "special_remark_tc": "(特別班由高嶺道開出)",
-      "special_remark_en": "(Special departure depart from Ko Ling Road)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KO05S10000",
         "KO05S10500",
@@ -28839,8 +28862,8 @@
       "dest_en": "TSIM SHA TSUI EAST (CIRCULAR)",
       "orig_tc": "啟業",
       "dest_tc": "尖沙咀東(循環線)",
-      "special_remark_tc": "不停曲街站",
-      "special_remark_en": "Omit Cooke Street bus stop",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA01T10000",
         "WA12N11000",
@@ -28873,8 +28896,8 @@
       "dest_en": "TSIM SHA TSUI EAST (CIRCULAR)",
       "orig_tc": "啟德巴士總站",
       "dest_tc": "尖沙咀東(循環線)",
-      "special_remark_tc": "由啟德站總站開出",
-      "special_remark_en": "Originate from Kai Tak Station Bus Terminus",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA10T10000",
         "CO01E10500",
@@ -28932,7 +28955,7 @@
       "orig_tc": "九龍站",
       "dest_tc": "馬灣(珀欣路)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "MT01T12600",
         "NG06S10500",
@@ -28955,7 +28978,7 @@
       "orig_tc": "荃灣(荃威花園)",
       "dest_tc": "黃埔花園",
       "special_remark_tc": "",
-      "special_remark_en": "Express Route Via Tsim Sha Tsui",
+      "special_remark_en": "",
       "stops": [
         "AL01T10000",
         "TS11S10500",
@@ -29036,7 +29059,7 @@
       "orig_tc": "青龍頭村",
       "dest_tc": "荃灣西站",
       "special_remark_tc": "",
-      "special_remark_en": "Tsing Lung Tau Tsuen Special Morning Services",
+      "special_remark_en": "",
       "stops": [
         "CA07S38500",
         "CA07S39000",
@@ -29310,7 +29333,7 @@
       "orig_tc": "荃灣(灣景花園)",
       "dest_tc": "尖沙咀碼頭",
       "special_remark_tc": "",
-      "special_remark_en": "Express Route",
+      "special_remark_en": "",
       "stops": [
         "BA01T10250",
         "CA07S44900",
@@ -29823,7 +29846,7 @@
       "orig_tc": "青衣(長亨邨)",
       "dest_tc": "尖沙咀",
       "special_remark_tc": "",
-      "special_remark_en": "Express Route",
+      "special_remark_en": "",
       "stops": [
         "CH03T10500",
         "CH14E10500",
@@ -30229,8 +30252,8 @@
       "dest_en": "YUEN LONG (HONG LOK ROAD)",
       "orig_tc": "江夏圍",
       "dest_tc": "元朗(康樂路)",
-      "special_remark_tc": "以康樂路為尾站",
-      "special_remark_en": "Destinated at Hong Lok Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KO08T10000",
         "KA05W16500",
@@ -30290,7 +30313,7 @@
       "orig_tc": "屯門公路轉車站(屯門方向)",
       "dest_tc": "掃管笏(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TU17N16000",
         "CA07N33500",
@@ -30329,8 +30352,8 @@
       "dest_en": "KWUN CHUI ROAD",
       "orig_tc": "屯門公路轉車站",
       "dest_tc": "管翠路",
-      "special_remark_tc": "夜間只往管翠路特別班",
-      "special_remark_en": "Kwun Chui Road Short Working",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TU17N16000",
         "CA07N33500",
@@ -30358,8 +30381,8 @@
       "dest_en": "TUEN MUN ROAD BBI",
       "orig_tc": "星堤",
       "dest_tc": "屯門公路轉車站",
-      "special_remark_tc": "由星堤開出",
-      "special_remark_en": "Departed from Avignon",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SO02E09500",
         "SO02E09750",
@@ -30592,8 +30615,8 @@
       "dest_en": "LAM TIN STATION",
       "orig_tc": "掃管笏",
       "dest_tc": "藍田站",
-      "special_remark_tc": "由掃管笏開出",
-      "special_remark_en": "Departed from So Kwun Wat",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SO02E10000",
         "SO02W09750",
@@ -31074,8 +31097,8 @@
       "dest_en": "LEI YUE MUN ESTATE",
       "orig_tc": "悅湖山莊",
       "dest_tc": "鯉魚門邨",
-      "special_remark_tc": "悅湖山莊特別班",
-      "special_remark_en": "Departed from Yuet Wu Villa",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WU05N10000",
         "WU03W09250",
@@ -31465,8 +31488,8 @@
       "dest_en": "HUNG HOM STATION",
       "orig_tc": "屯門(大興邨)",
       "dest_tc": "紅磡站",
-      "special_remark_tc": "由大興開出",
-      "special_remark_en": "Departed from Tai Hing",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA04T11000",
         "TA09S10000",
@@ -31615,8 +31638,8 @@
       "dest_en": "KOWLOON STATION",
       "orig_tc": "掃管笏",
       "dest_tc": "九龍站",
-      "special_remark_tc": "由掃管笏開出",
-      "special_remark_en": "Departed from So Kwun Wat",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SO02W09600",
         "SO02W09750",
@@ -32111,7 +32134,7 @@
       "orig_tc": "大埔墟站",
       "dest_tc": "天耀",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TA10T09500",
         "KW11W10750",
@@ -32415,8 +32438,8 @@
       "dest_en": "EDUCATION UNIVERSITY OF HONG KONG",
       "orig_tc": "天水圍市中心",
       "dest_tc": "香港教育大學",
-      "special_remark_tc": "經元朗",
-      "special_remark_en": "Via Yuen Long",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI04T09000",
         "TI21E10000",
@@ -32741,8 +32764,8 @@
       "dest_en": "HUNG HOM (HUNG LUEN ROAD)",
       "orig_tc": "洪元路(洪福邨)",
       "dest_tc": "紅磡(紅鸞道)",
-      "special_remark_tc": "由洪福邨開出",
-      "special_remark_en": "Departed from Hung Fuk Estate",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HU09S10000",
         "HU07W10000",
@@ -32936,8 +32959,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "銀田花園",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "由銀田花園開出",
-      "special_remark_en": "Departed from Silver Field Garden",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "YU10N10000",
         "YU06T12000",
@@ -33472,8 +33495,8 @@
       "dest_en": "LEK YUEN",
       "orig_tc": "天水圍站",
       "dest_tc": "瀝源",
-      "special_remark_tc": "天水圍站特別班(經洪福邨)",
-      "special_remark_en": "Tin Shui Wai Station Special Departure (via Hung F",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI10T10000",
         "PI03W11500",
@@ -33506,8 +33529,8 @@
       "dest_en": "LEK YUEN",
       "orig_tc": "天富",
       "dest_tc": "瀝源",
-      "special_remark_tc": "經濕地公園，不經元朗",
-      "special_remark_en": "Via Wetland Park, omit Yuen Long",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI07T10050",
         "TI17E10000",
@@ -33538,8 +33561,8 @@
       "dest_en": "LEK YUEN",
       "orig_tc": "天富",
       "dest_tc": "瀝源",
-      "special_remark_tc": "經元朗",
-      "special_remark_en": "Via Yuen Long",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI07T10000",
         "TI05S04400",
@@ -33829,8 +33852,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "天水圍市中心",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "經天水圍北",
-      "special_remark_en": "Via Tin Shui Wai North",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI04T09500",
         "TI10S09500",
@@ -33957,8 +33980,8 @@
       "dest_en": "TSUI LAI GARDEN",
       "orig_tc": "上水(天平)",
       "dest_tc": "翠麗花園",
-      "special_remark_tc": "由天平開出",
-      "special_remark_en": "Originate from Tin Ping",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI01T10000",
         "LU08S10000",
@@ -34201,8 +34224,8 @@
       "dest_en": "CHARMING GARDEN",
       "orig_tc": "上水",
       "dest_tc": "富榮花園",
-      "special_remark_tc": "以富榮花園為尾站",
-      "special_remark_en": "Terminate at Charming Garden",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH18T14000",
         "PO22W10000",
@@ -34280,7 +34303,7 @@
       "orig_tc": "粉嶺(聯和墟)",
       "dest_tc": "尖沙咀東(麼地道)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LU02T10500",
         "WO11W10500",
@@ -34450,8 +34473,8 @@
       "dest_en": "FANLING (LUEN WO HUI)",
       "orig_tc": "紅磡香港體育館",
       "dest_tc": "粉嶺(聯和墟)",
-      "special_remark_tc": "經新田皇巴站",
-      "special_remark_en": "Via San Tin PTI",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HO05T10750",
         "TA44N11000",
@@ -34749,7 +34772,7 @@
       "orig_tc": "大埔(富亨)",
       "dest_tc": "高鐵(西九龍站)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "FU01T13000",
         "CH23E13500",
@@ -34835,7 +34858,7 @@
       "orig_tc": "紅磡香港體育館",
       "dest_tc": "大埔(太和)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "HO05T10750",
         "SC02N09500",
@@ -34869,7 +34892,7 @@
       "orig_tc": "紅磡站",
       "dest_tc": "大埔(太和)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "HU03T12500",
         "CH08W10000",
@@ -34909,7 +34932,7 @@
       "orig_tc": "高鐵(西九龍站)",
       "dest_tc": "大埔(富亨)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "WE03T13000",
         "CA04S11000",
@@ -34971,8 +34994,8 @@
       "dest_en": "POK YIN ROAD",
       "orig_tc": "大學站",
       "dest_tc": "博研路",
-      "special_remark_tc": "以博研路為尾站",
-      "special_remark_en": "Terminate at Pok Yin Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "UN01T11500",
         "SC02N09500",
@@ -35018,8 +35041,8 @@
       "dest_en": "PAK SHEK KOK (CIRCULAR)",
       "orig_tc": "大學站",
       "dest_tc": "白石角(循環線)",
-      "special_remark_tc": "經科技大道西",
-      "special_remark_en": "Via Science Park West Avenue",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "UN01T11500",
         "SC02N09500",
@@ -35085,7 +35108,7 @@
       "orig_tc": "大埔(太和)",
       "dest_tc": "旺角(柏景灣)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TA12T11500",
         "TI08E10000",
@@ -35438,8 +35461,8 @@
       "dest_en": "WAH MING (CIRCULAR)",
       "orig_tc": "彩石邨",
       "dest_tc": "華明(循環線)",
-      "special_remark_tc": "由彩石邨開出",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH17E09500",
         "CH17E10000",
@@ -35482,8 +35505,8 @@
       "dest_en": "WAH MING (CIRCULAR)",
       "orig_tc": "彩石邨",
       "dest_tc": "華明(循環線)",
-      "special_remark_tc": "彩石邨開來回經風采中學",
-      "special_remark_en": "Via Elegantia College(Both bound)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH17E09500",
         "CH17E10000",
@@ -35528,8 +35551,8 @@
       "dest_en": "WAH MING (CIRCULAR)",
       "orig_tc": "彩石邨",
       "dest_tc": "華明(循環線)",
-      "special_remark_tc": "彩石邨開去程經風采中學",
-      "special_remark_en": "Via Elegantia College(Wah Ming bound only)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH17E09500",
         "CH17E10000",
@@ -35573,8 +35596,8 @@
       "dest_en": "CHOI SHEK ESTATE",
       "orig_tc": "粉嶺(華明)",
       "dest_tc": "彩石邨",
-      "special_remark_tc": "由華明開出",
-      "special_remark_en": "Originate from Wah Ming",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WA01T12000",
         "WA02E10000",
@@ -35620,8 +35643,8 @@
       "dest_en": "SHEUNG SHUI STATION",
       "orig_tc": "上水(清河)",
       "dest_tc": "上水站(只往上水站)",
-      "special_remark_tc": "以上水為尾站",
-      "special_remark_en": "Terminate at Sheung Shui Station",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH23T10000",
         "CH39E10500",
@@ -35702,8 +35725,8 @@
       "dest_en": "WAH MING (CIRCULAR)",
       "orig_tc": "上水",
       "dest_tc": "華明(循環線)",
-      "special_remark_tc": "經清河",
-      "special_remark_en": "Via Ching Ho",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH18T13250",
         "CH23T11500",
@@ -35932,7 +35955,7 @@
       "orig_tc": "觀塘碼頭",
       "dest_tc": "大埔中心",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KW12T14000",
         "KI03N11500",
@@ -36663,8 +36686,8 @@
       "dest_en": "LAM TIN STATION",
       "orig_tc": "上水(天平)",
       "dest_tc": "藍田站",
-      "special_remark_tc": "不經清河",
-      "special_remark_en": "Omit Ching Ho",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI01T10500",
         "TI20W10000",
@@ -36843,8 +36866,8 @@
       "dest_en": "LAM TIN STATION",
       "orig_tc": "粉嶺(聯和墟)",
       "dest_tc": "藍田站",
-      "special_remark_tc": "不經華明",
-      "special_remark_en": "Omit Wah Ming",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LU02T14000",
         "WO11W10500",
@@ -36874,8 +36897,8 @@
       "dest_en": "LAM TIN STATION",
       "orig_tc": "粉嶺(華明)",
       "dest_tc": "藍田站",
-      "special_remark_tc": "由華明開出",
-      "special_remark_en": "Originate from Wah Ming",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WA01T11200",
         "PA05W09500",
@@ -36993,8 +37016,8 @@
       "dest_en": "FANLING STATION (CIR.) [AM]",
       "orig_tc": "粉嶺(聯和墟)",
       "dest_tc": "粉嶺站(循環線) [上午特別路線]",
-      "special_remark_tc": "經粉嶺樓路站",
-      "special_remark_en": "Via Fan Leng Lau Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LU02T10000",
         "WO11W09500",
@@ -37016,8 +37039,8 @@
       "dest_en": "FANLING STATION (CIR.) [PM]",
       "orig_tc": "粉嶺(聯和墟)",
       "dest_tc": "粉嶺站(循環線) [下午特別路線]",
-      "special_remark_tc": "經粉嶺樓路站",
-      "special_remark_en": "Via Fan Leng Lau Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LU02T10000",
         "WO11W09500",
@@ -37775,8 +37798,8 @@
       "dest_en": "CHEUNG SHA WAN (CIRCULAR)",
       "orig_tc": "沙田圍",
       "dest_tc": "長沙灣 (循環線)",
-      "special_remark_tc": "每日早上 05:30-10:15 提供服務",
-      "special_remark_en": "Daily 05:30-10:15",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH08T10000",
         "SH01S12000",
@@ -37930,7 +37953,7 @@
       "orig_tc": "馬鞍山市中心",
       "dest_tc": "深水埗",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "MA01T11000",
         "SA03N21000",
@@ -38038,8 +38061,8 @@
       "dest_en": "SHAM SHUI PO (CIRCULAR)",
       "orig_tc": "顯徑",
       "dest_tc": "深水埗(循環線)",
-      "special_remark_tc": "不入美田美林",
-      "special_remark_en": "Omit Mei Tin / Mei Lam",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HI01T12500",
         "CH07N10000",
@@ -38369,7 +38392,7 @@
       "orig_tc": "濱景花園",
       "dest_tc": "水泉澳",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "ON02N07000",
         "ON02N10000",
@@ -38421,8 +38444,8 @@
       "dest_en": "UNIVERSITY STATION",
       "orig_tc": "富安花園",
       "dest_tc": "大學站",
-      "special_remark_tc": "由富安花園開出",
-      "special_remark_en": "depart from Chevalier Garden",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH09T05000",
         "NI01E10000",
@@ -38676,7 +38699,7 @@
       "orig_tc": "將軍澳(彩明)",
       "dest_tc": "荃灣西站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "CH25T10000",
         "TO06E09750",
@@ -38727,8 +38750,8 @@
       "dest_en": "TSUEN WAN WEST STATION",
       "orig_tc": "上秀茂坪",
       "dest_tc": "荃灣西站",
-      "special_remark_tc": "(特別班由秀茂坪開出)",
-      "special_remark_en": "(Special departure depart from Sau Mau Ping)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA07T11000",
         "SA14N30000",
@@ -38806,8 +38829,8 @@
       "dest_en": "TSUEN WAN WEST STATION",
       "orig_tc": "將軍澳工業邨",
       "dest_tc": "荃灣西站",
-      "special_remark_tc": "(經黃大仙)",
-      "special_remark_en": "(Via Wong Tai Sin)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS22T09500",
         "CH35E10000",
@@ -38954,7 +38977,7 @@
       "orig_tc": "康城站",
       "dest_tc": "荃灣西站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LO09T10500",
         "WA21S10000",
@@ -39000,8 +39023,8 @@
       "dest_en": "TSUEN WAN WEST STATION",
       "orig_tc": "調景嶺站",
       "dest_tc": "荃灣西站",
-      "special_remark_tc": "(特別班由調景嶺站開出)",
-      "special_remark_en": "(Special departure depart from Tiu Keng Leng Stati",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI11T10000",
         "KI06N10500",
@@ -39038,8 +39061,8 @@
       "dest_en": "TSUEN WAN WEST STATION",
       "orig_tc": "康城站",
       "dest_tc": "荃灣西站",
-      "special_remark_tc": "(特別班經百勝角路)",
-      "special_remark_en": "(Special departure via Pak Shing Kok Road)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LO09T10500",
         "WA21S10000",
@@ -39087,8 +39110,8 @@
       "dest_en": "MONG KOK",
       "orig_tc": "香港科技大學(南)",
       "dest_tc": "旺角",
-      "special_remark_tc": "(經彩虹)",
-      "special_remark_en": "(Via Choi Hung)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HK02T10500",
         "CL01W16000",
@@ -39113,8 +39136,8 @@
       "dest_en": "KWUN TONG",
       "orig_tc": "西貢",
       "dest_tc": "觀塘",
-      "special_remark_tc": "(經彩虹、九龍灣商貿區)",
-      "special_remark_en": "(Via Choi Hung, Kowloon Bay Commercial Area)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SA01T10500",
         "PO09S10000",
@@ -39308,8 +39331,8 @@
       "dest_en": "CHEUNG SHA WAN (HOI YING ESTATE)",
       "orig_tc": "尚德",
       "dest_tc": "長沙灣(海盈邨)",
-      "special_remark_tc": "(經九龍城、旺角)",
-      "special_remark_en": "(Via Kowloon City, Mong Kok)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH23T10500",
         "TO06W10000",
@@ -39376,8 +39399,8 @@
       "dest_en": "KOWLOON STATION",
       "orig_tc": "尚德",
       "dest_tc": "九龍站",
-      "special_remark_tc": "經M+及香港故宮文化博物館",
-      "special_remark_en": "Via M+ & Hong Kong Palace Museum",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH23T11000",
         "TO06W09500",
@@ -39727,7 +39750,7 @@
       "orig_tc": "坑口(北)(將軍澳醫院)",
       "dest_tc": "將軍澳工業邨(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "HA02T12000",
         "CH30S10000",
@@ -39807,8 +39830,8 @@
       "dest_en": "MEI FOO",
       "orig_tc": "坑口(北)(將軍澳醫院)",
       "dest_tc": "美孚",
-      "special_remark_tc": "(經九龍城、旺角)",
-      "special_remark_en": "(Via Kowloon City, Mong Kok)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HA02T11000",
         "CH24E08500",
@@ -40084,8 +40107,8 @@
       "dest_en": "SHEUNG WAN",
       "orig_tc": "大埔中心",
       "dest_tc": "上環",
-      "special_remark_tc": "以永吉街為尾站",
-      "special_remark_en": "Terminated at Wing Kut Street",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA07T11500",
         "ON01S10500",
@@ -40302,7 +40325,7 @@
       "orig_tc": "馬灣(珀欣路)",
       "dest_tc": "荃灣站",
       "special_remark_tc": "",
-      "special_remark_en": "Sun Bus(NR331)",
+      "special_remark_en": "",
       "stops": [
         "SB14N10000",
         "SB14N10100",
@@ -40338,8 +40361,8 @@
       "dest_en": "TSUEN WAN WEST STATION",
       "orig_tc": "馬灣(珀欣路)",
       "dest_tc": "荃灣西站",
-      "special_remark_tc": "陽光巴士(NR331S)",
-      "special_remark_en": "Sun Bus(NR331S)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB14N10000",
         "SB14N10100",
@@ -40679,8 +40702,8 @@
       "dest_en": "SHEUNG WAN",
       "orig_tc": "曉光街(曉麗苑)",
       "dest_tc": "上環",
-      "special_remark_tc": "(特別班由曉光街開出)",
-      "special_remark_en": "(Special departure depart from Hiu Kwong Street)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HI06W11500",
         "HI04S11000",
@@ -40780,8 +40803,8 @@
       "dest_en": "ADMIRALTY (ADMIRALTY CENTRE)",
       "orig_tc": "平田",
       "dest_tc": "金鐘(海富中心)",
-      "special_remark_tc": "(往金鐘)",
-      "special_remark_en": "(TO ADMIRALTY)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PI03T10000",
         "LA06T09000",
@@ -40955,7 +40978,8 @@
         "ON14W11000",
         "ON14W11500",
         "ON16K10500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "603S",
@@ -41109,8 +41133,8 @@
       "dest_en": "SIU SAI WAN (ISLAND RESORT)",
       "orig_tc": "彩雲(豐盛街)",
       "dest_tc": "小西灣(藍灣半島)",
-      "special_remark_tc": "經彩霞道",
-      "special_remark_en": "Via Choi Ha Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "FU04N10000",
         "CL01W20500",
@@ -41286,8 +41310,8 @@
       "dest_en": "SIU SAI WAN (ISLAND RESORT)",
       "orig_tc": "九龍灣",
       "dest_tc": "小西灣(藍灣半島)",
-      "special_remark_tc": "由九龍灣總站開出",
-      "special_remark_en": "Originate from Kowloon Bay Bus Terminus",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KO02T10500",
         "KA02E10500",
@@ -41321,8 +41345,8 @@
       "dest_en": "SIU SAI WAN (ISLAND RESORT)",
       "orig_tc": "啟業",
       "dest_tc": "小西灣(藍灣半島)",
-      "special_remark_tc": "經九龍灣總站",
-      "special_remark_en": "Via Kowloon Bay Bus Terminus",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA01T11500",
         "KO02T10500",
@@ -41357,8 +41381,8 @@
       "dest_en": "SIU SAI WAN (ISLAND RESORT)",
       "orig_tc": "啟業",
       "dest_tc": "小西灣(藍灣半島)",
-      "special_remark_tc": "經九龍灣常悅道站",
-      "special_remark_en": "Via Sheung Yuet Road bus stop, Kwoloon Bay",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA01T11500",
         "WA12S10500",
@@ -42020,7 +42044,7 @@
       "orig_tc": "鴨脷洲(利樂街)",
       "dest_tc": "鑽石山站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "AP01T10000",
         "LE08N10000",
@@ -42435,8 +42459,8 @@
       "dest_en": "ADMIRALTY STATION (EAST)",
       "orig_tc": "利安",
       "dest_tc": "金鐘站(東)",
-      "special_remark_tc": "經頌安邨",
-      "special_remark_en": "Via Chung On Estate",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LE01T11500",
         "KA07W10500",
@@ -42823,8 +42847,8 @@
       "dest_en": "CENTRAL (EXCHANGE SQUARE)",
       "orig_tc": "康盛花園",
       "dest_tc": "中環(交易廣場)",
-      "special_remark_tc": "(特別班經禮頓道)",
-      "special_remark_en": "(Special departure via Leighton Road)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HO03T10500",
         "PO05E10000",
@@ -42933,8 +42957,8 @@
       "dest_en": "CENTRAL (EXCHANGE SQUARE)",
       "orig_tc": "坑口(明德邨)",
       "dest_tc": "中環(交易廣場)",
-      "special_remark_tc": "(經百勝角、日出康城)",
-      "special_remark_en": "(Via Pak Shing Kok, LOHAS Park)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PO06W10150",
         "CH24E10000",
@@ -42962,7 +42986,7 @@
       "orig_tc": "沙田馬場",
       "dest_tc": "葵芳站",
       "special_remark_tc": "",
-      "special_remark_en": "On Specific Day Only",
+      "special_remark_en": "",
       "stops": [
         "SH07T11500",
         "SH23W10000",
@@ -43100,7 +43124,7 @@
       "orig_tc": "沙田馬場",
       "dest_tc": "大埔中心",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "SH07T13500",
         "TA21N27000",
@@ -43552,7 +43576,7 @@
       "orig_tc": "會展站",
       "dest_tc": "荔枝角",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "EX01T11000",
         "HE02W13200",
@@ -43659,7 +43683,7 @@
       "orig_tc": "富蝶總站",
       "dest_tc": "灣仔(會展)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "FU07T10000",
         "CH23E12000",
@@ -43743,7 +43767,7 @@
       "orig_tc": "大埔 (汀太路)",
       "dest_tc": "小西灣",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TI09W10000",
         "PO17E10000",
@@ -43984,8 +44008,8 @@
       "dest_en": "WAN CHAI",
       "orig_tc": "粉嶺公路",
       "dest_tc": "灣仔",
-      "special_remark_tc": "陽光巴士(NR917)",
-      "special_remark_en": "Sun Bus(NR917)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB11S10000",
         "SB11S10100",
@@ -44068,8 +44092,8 @@
       "dest_en": "WAN CHAI",
       "orig_tc": "林錦公路",
       "dest_tc": "灣仔",
-      "special_remark_tc": "陽光巴士(NR918)",
-      "special_remark_en": "Sun Bus(NR918)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB12S10000",
         "SB12S10100",
@@ -44137,7 +44161,7 @@
       "orig_tc": "荃灣(灣景花園)",
       "dest_tc": "灣仔(菲林明道)",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "BA01T10500",
         "CA07S45000",
@@ -44193,7 +44217,7 @@
       "orig_tc": "荃灣(荃威花園)",
       "dest_tc": "灣仔(菲林明道)",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "AL01T11000",
         "TS11S10500",
@@ -44250,7 +44274,7 @@
       "orig_tc": "石籬(大隴街)",
       "dest_tc": "灣仔(菲林明道)",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "SH26T11500",
         "WO04N10500",
@@ -44279,7 +44303,7 @@
       "orig_tc": "葵涌(安蔭邨)",
       "dest_tc": "灣仔(菲林明道)",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "ON02T10000",
         "SH11N11500",
@@ -44448,7 +44472,7 @@
       "orig_tc": "荃灣(石圍角)",
       "dest_tc": "銅鑼灣(棉花路)",
       "special_remark_tc": "",
-      "special_remark_en": "Express (特快線)",
+      "special_remark_en": "",
       "stops": [
         "SH11T10000",
         "YI01E10000",
@@ -44524,7 +44548,8 @@
         "CA07N22000",
         "LA10N10000",
         "BA01T10500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "945",
@@ -44554,8 +44579,8 @@
       "dest_en": "NORTH POINT",
       "orig_tc": "元朗(鳳翔路)",
       "dest_tc": "北角",
-      "special_remark_tc": "陽光巴士(NR945)",
-      "special_remark_en": "Sun Bus(NR945)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB13S10000",
         "SB13S10100",
@@ -44618,7 +44643,7 @@
       "orig_tc": "青衣(長安邨)",
       "dest_tc": "銅鑼灣(天后)",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "CH05T12500",
         "CH21T10500",
@@ -44660,7 +44685,7 @@
       "orig_tc": "青衣(長安邨)",
       "dest_tc": "銅鑼灣(天后)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "CH05T12100",
         "FU05S10000",
@@ -44699,7 +44724,7 @@
       "orig_tc": "翠怡花園",
       "dest_tc": "銅鑼灣(天后)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS07S10100",
         "CH22W10000",
@@ -44770,7 +44795,7 @@
       "orig_tc": "青衣站",
       "dest_tc": "太古(康怡廣場)",
       "special_remark_tc": "",
-      "special_remark_en": "Mon to Fri Peak",
+      "special_remark_en": "",
       "stops": [
         "TS21T13000",
         "TS16N11500",
@@ -44804,7 +44829,7 @@
       "orig_tc": "青衣(長安邨)",
       "dest_tc": "銅鑼灣(天后)",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "CH05T12100",
         "FU05S10000",
@@ -44835,7 +44860,7 @@
       "orig_tc": "青衣(長宏邨)",
       "dest_tc": "銅鑼灣(天后)",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "CH21T10000",
         "LI03S10000",
@@ -45444,8 +45469,8 @@
       "dest_en": "Wan Chai (HKCECE)",
       "orig_tc": "屯門(山景邨)",
       "dest_tc": "灣仔(會展)",
-      "special_remark_tc": "經銅鑼灣",
-      "special_remark_en": "Via Causeway Bay",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH04T11500",
         "MI02S10500",
@@ -45547,8 +45572,8 @@
       "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
       "orig_tc": "屯門(良景邨)",
       "dest_tc": "銅鑼灣(維園)",
-      "special_remark_tc": "經業旺邨",
-      "special_remark_en": "Via Yip Wong Estate",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LE05T10500",
         "TI02S10500",
@@ -45672,8 +45697,8 @@
       "dest_en": "CAUSEWAY BAY (TIN HAU)",
       "orig_tc": "元朗公園",
       "dest_tc": "銅鑼灣(天后)",
-      "special_remark_tc": "由元朗公園開出",
-      "special_remark_en": "Departed from Yuen Long Park",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "YU06T11000",
         "TO08S10000",
@@ -46309,7 +46334,7 @@
       "orig_tc": "美田(美致樓)",
       "dest_tc": "灣仔",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "HE05E10000",
         "ME02W12500",
@@ -46474,7 +46499,7 @@
       "orig_tc": "梨木樹",
       "dest_tc": "機場及港珠澳大橋",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LE07T10252",
         "WO04S10902",
@@ -46504,8 +46529,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "梨木樹",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經博覽館",
-      "special_remark_en": "Via AsiaWorld-Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LE07T10252",
         "WO04S10902",
@@ -46625,8 +46650,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "荃灣(如心廣場)",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經博覽館",
-      "special_remark_en": "Via AsiaWorld Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS23T10502",
         "TA03N10502",
@@ -46902,8 +46927,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "屯門公路轉車站",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經博覽館",
-      "special_remark_en": "Via Asia-World Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TU17S11002",
         "CA07N34502",
@@ -47039,8 +47064,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "屯門(富泰邨)",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經國泰城",
-      "special_remark_en": "Via Cathay City",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "FU05T10002",
         "TU16S10002",
@@ -47158,7 +47183,7 @@
       "orig_tc": "洪水橋(洪元路)",
       "dest_tc": "機場及港珠澳大橋",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "HU05T10002",
         "HU03N09502",
@@ -47203,8 +47228,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "兆康路",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "由兆康路開出",
-      "special_remark_en": "From Siu Hong Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS05S09252",
         "YA71W10002",
@@ -47239,8 +47264,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "洪水橋(洪元路)",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經博覽館",
-      "special_remark_en": "Via AsiaWorld-Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HU05T10002",
         "HU03N09502",
@@ -47287,8 +47312,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "兆康路",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "由兆康路開出,經博覽館",
-      "special_remark_en": "From Siu Hong Road, via AsiaWorld-Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS05S09252",
         "YA71W10002",
@@ -47387,7 +47412,7 @@
       "orig_tc": "錦上路站",
       "dest_tc": "機場及港珠澳大橋",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KA12T13002",
         "KA11N15002",
@@ -47419,8 +47444,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "錦上路站",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經國泰城",
-      "special_remark_en": "Via Cathay City",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA12T13002",
         "KA11N15002",
@@ -47453,8 +47478,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "錦上路站",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經國泰城及民航處",
-      "special_remark_en": "Via Cathay City and CAD",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA12T13002",
         "KA11N15002",
@@ -47488,8 +47513,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "錦上路站",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經博覽館",
-      "special_remark_en": "Via AsiaWorld-Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA12T13002",
         "KA11N15002",
@@ -47585,7 +47610,7 @@
       "orig_tc": "朗屏站",
       "dest_tc": "機場及港珠澳大橋",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LO06T10502",
         "WA27N10002",
@@ -47618,8 +47643,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "朗屏站",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經博覽館",
-      "special_remark_en": "Via AsiaWorld-Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LO06T10502",
         "WA27N10002",
@@ -47695,7 +47720,7 @@
       "orig_tc": "荃灣(荃威花園)",
       "dest_tc": "機場及港珠澳大橋",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "AL01T10502",
         "TS11S10502",
@@ -47840,8 +47865,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "碩門邨",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經國泰城及民航處",
-      "special_remark_en": "via Cathay City and CAD",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH31T10002",
         "SI02E11002",
@@ -48030,8 +48055,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "西沙灣交通交匯處",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "由西沙灣開出",
-      "special_remark_en": "From Sai Sha Residences",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HO16T10502",
         "SA03N13502",
@@ -48211,8 +48236,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "粉嶺(聯和墟)",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經國泰城",
-      "special_remark_en": "Via Cathay City",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LU02T11252",
         "SH02S21252",
@@ -48335,7 +48360,7 @@
       "orig_tc": "粉嶺(聯和墟)",
       "dest_tc": "機場及港珠澳大橋",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LU02T11252",
         "SH02S21252",
@@ -48363,8 +48388,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "皇后山",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "由皇后山開出",
-      "special_remark_en": "From Queen's Hill",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "QU03T10752",
         "LU14W20502",
@@ -48612,8 +48637,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "大埔(太和)",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經白石角",
-      "special_remark_en": "Via Pak Shek Kok",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA12T13002",
         "TI08E10002",
@@ -48653,8 +48678,8 @@
       "dest_en": "AIRPORT and HZMB Control Point",
       "orig_tc": "大埔(太和)",
       "dest_tc": "機場及港珠澳大橋",
-      "special_remark_tc": "經白石角及國泰城",
-      "special_remark_en": "Via Pak Shek Kok & Cathay City",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TA12T13002",
         "TI08E10002",
@@ -48779,8 +48804,8 @@
       "dest_en": "LOK MA CHAU STATION ‧ FUTIAN PORT",
       "orig_tc": "媽橫路(山水樓)",
       "dest_tc": "落馬洲站 ‧ 福田口岸",
-      "special_remark_tc": "由元朗山水樓開出",
-      "special_remark_en": "Departed from Yuen Long San Shui House",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "MA08W10500",
         "CA07N50750",
@@ -48804,8 +48829,8 @@
       "dest_en": "LOK MA CHAU STATION ‧ FUTIAN PORT",
       "orig_tc": "天慈",
       "dest_tc": "落馬洲站 ‧ 福田口岸",
-      "special_remark_tc": "經天水圍北，不經元朗",
-      "special_remark_en": "Via Tin Shui Wai North, omit Yuen Long",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI05T10550",
         "TI21E10000",
@@ -48887,8 +48912,8 @@
       "dest_en": "HEUNG YUEN WAI ‧ LIANTANG PORT",
       "orig_tc": "元朗(朗日路)",
       "dest_tc": "香園圍 ‧ 蓮塘口岸",
-      "special_remark_tc": "由元朗開出",
-      "special_remark_en": "Departed from Yuen Long",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LO04E12000",
         "CA07N54800",
@@ -48903,8 +48928,8 @@
       "dest_en": "HEUNG YUEN WAI ‧ LIANTANG PORT",
       "orig_tc": "屯門站",
       "dest_tc": "香園圍 ‧ 蓮塘口岸",
-      "special_remark_tc": "不經元朗",
-      "special_remark_en": "Omit Yuen Long",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TU04T12000",
         "HE03T10000"
@@ -49137,8 +49162,8 @@
       "dest_en": "SKYCITY",
       "orig_tc": "葵芳(南)",
       "dest_tc": "航天城",
-      "special_remark_tc": "經青衣中及青衣南",
-      "special_remark_en": "via Tsing Yi Central/ South",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW17T10002",
         "KW01T10102",
@@ -49222,7 +49247,7 @@
       "orig_tc": "葵芳(南)",
       "dest_tc": "東涌碼頭",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KW17T10002",
         "KW01T10102",
@@ -49409,8 +49434,8 @@
       "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
       "orig_tc": "寶怡花園",
       "dest_tc": "機場(地面運輸中心)",
-      "special_remark_tc": "由寶怡花園開出",
-      "special_remark_en": "From Blossom Garden",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TS14N10752",
         "MI02S10052",
@@ -49485,7 +49510,7 @@
       "orig_tc": "八鄉路",
       "dest_tc": "機場(地面運輸中心)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "PA03T11002",
         "KA11N10000",
@@ -49562,7 +49587,7 @@
       "orig_tc": "元朗(德業街)",
       "dest_tc": "東涌(逸東)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "YU10T11002",
         "PO23S10000",
@@ -49653,7 +49678,7 @@
       "orig_tc": "元朗(德業街)",
       "dest_tc": "飛機維修區",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "YU10T11002",
         "PO23S10000",
@@ -49756,7 +49781,7 @@
       "orig_tc": "上村",
       "dest_tc": "航天城",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "SH14T11002",
         "KA05W10000",
@@ -49839,7 +49864,7 @@
       "orig_tc": "元朗(媽橫路)",
       "dest_tc": "機場(地面運輸中心)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "MA08W11002",
         "CA07N50752",
@@ -49910,7 +49935,7 @@
       "orig_tc": "天水圍市中心",
       "dest_tc": "機場(地面運輸中心)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TI04T11252",
         "TI21E09502",
@@ -49948,8 +49973,8 @@
       "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
       "orig_tc": "天水圍市中心",
       "dest_tc": "機場(地面運輸中心)",
-      "special_remark_tc": "經頌棋閣",
-      "special_remark_en": "Via Chung Ki House",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI04T11252",
         "TI21E09502",
@@ -49982,8 +50007,8 @@
       "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
       "orig_tc": "天頌苑頌棋閣",
       "dest_tc": "機場(地面運輸中心)",
-      "special_remark_tc": "由頌棋閣開出",
-      "special_remark_en": "From Chung Ki House",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI17W10202",
         "TI05S04602",
@@ -50057,7 +50082,7 @@
       "orig_tc": "天水圍市中心",
       "dest_tc": "飛機維修區",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TI04T11002",
         "TI21E09502",
@@ -50097,8 +50122,8 @@
       "dest_en": "AIRCRAFT MAINTENANCE AREA",
       "orig_tc": "屯門(紅橋)",
       "dest_tc": "飛機維修區",
-      "special_remark_tc": "由紅橋開出",
-      "special_remark_en": "From Hung Kiu",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TU06S08502",
         "TU06S10752",
@@ -50298,7 +50323,7 @@
       "orig_tc": "博康",
       "dest_tc": "飛機維修區",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "PO02T09752",
         "SH09W11752",
@@ -50366,7 +50391,7 @@
       "orig_tc": "火炭(山尾街)",
       "dest_tc": "東涌(逸東)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "FO01T03002",
         "FO01E10002",
@@ -50438,7 +50463,7 @@
       "orig_tc": "粉嶺(華明)",
       "dest_tc": "東涌發展碼頭",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "WA01T12502",
         "WA02E10002",
@@ -50474,8 +50499,8 @@
       "dest_en": "[KMB Tour HK] TSIM SHA TSUI, MONG KOK and WONG TAI",
       "orig_tc": "尖沙咀碼頭",
       "dest_tc": "[九巴遊香港] 尖沙咀、旺角及黃大仙",
-      "special_remark_tc": "開篷巴士（城市魅力 - 日景）[經 彌敦道、龍翔道]",
-      "special_remark_en": "Open-top Bus (CITY CHARM - Daytime) [via Nathan Ro",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ST01T08000",
         "CA04N10100",
@@ -50504,8 +50529,8 @@
       "dest_en": "[KMB Tour HK] TSIM SHA TSUI and MONG KOK",
       "orig_tc": "尖沙咀碼頭",
       "dest_tc": "[九巴遊香港] 尖沙咀及旺角",
-      "special_remark_tc": "開篷巴士（城市魅力 - 夜遊）[經 彌敦道]",
-      "special_remark_en": "Open-top Bus (CITY CHARM - Nighttime) [via Nathan",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ST01T08010",
         "CA04N10110",
@@ -50529,8 +50554,8 @@
       "dest_en": "[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE",
       "orig_tc": "九龍站",
       "dest_tc": "[九巴遊香港] 尖沙咀及青馬大橋",
-      "special_remark_tc": "開篷巴士（天際漫遊） [經 昂船洲大橋]",
-      "special_remark_en": "Open-top Bus (SKYWALK) [via Stonecutters Bridge]",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "MT01T12651",
         "NG06S11000",
@@ -50702,7 +50727,7 @@
       "orig_tc": "觀塘(裕民坊)",
       "dest_tc": "慈雲山(中)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KW16T11500",
         "KW16W14500",
@@ -50916,7 +50941,7 @@
       "orig_tc": "荃灣站",
       "dest_tc": "梨木樹(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Circular",
+      "special_remark_en": "",
       "stops": [
         "TS10T10000",
         "CA07S51000",
@@ -50946,7 +50971,7 @@
       "orig_tc": "荃灣站",
       "dest_tc": "荃威花園(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS10T10000",
         "CA07N16500",
@@ -50974,7 +50999,7 @@
       "orig_tc": "紅磡站",
       "dest_tc": "青衣(長宏邨)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "HU03T10500",
         "CH08W10000",
@@ -51220,7 +51245,7 @@
       "orig_tc": "荃灣站",
       "dest_tc": "青衣(長宏邨)",
       "special_remark_tc": "",
-      "special_remark_en": "Service on LNY EVE",
+      "special_remark_en": "",
       "stops": [
         "TS10T10500",
         "TA10S10000",
@@ -51375,7 +51400,9 @@
         "LA07W14000",
         "LA07W14500",
         "LA07W15000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "N72E",
@@ -51404,7 +51431,8 @@
         "NA06S44500",
         "SA06E10000",
         "TS27T10000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "N73",
@@ -51520,7 +51548,8 @@
         "CA07N14500",
         "TA10S11000",
         "TS23T12500"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "N74E",
@@ -51545,7 +51574,8 @@
         "NG05E12000",
         "MU02E11000",
         "KW13T13000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "N78",
@@ -51735,8 +51765,8 @@
       "dest_en": "SIU SAI WAN (ISLAND RESORT)",
       "orig_tc": "長沙灣(深旺道)",
       "dest_tc": "小西灣(藍灣半島)",
-      "special_remark_tc": "通宵線",
-      "special_remark_en": "Overnight Service",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH37W11800",
         "TO12N10000",
@@ -51927,8 +51957,8 @@
       "dest_en": "SHAU KEI WAN",
       "orig_tc": "美孚",
       "dest_tc": "筲箕灣",
-      "special_remark_tc": "通宵線",
-      "special_remark_en": "Overnight Service",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ME01T11500",
         "CA07S61000",
@@ -52125,8 +52155,8 @@
       "dest_en": "AP LEI CHAU ESTATE",
       "orig_tc": "荔枝角",
       "dest_tc": "鴨脷洲邨",
-      "special_remark_tc": "通宵線",
-      "special_remark_en": "Overnight Service",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LA15T11000",
         "ME01S09500",
@@ -52274,7 +52304,7 @@
       "orig_tc": "尖沙咀東(麼地道)",
       "dest_tc": "安泰(西)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS27T11500",
         "SA06W11000",
@@ -52336,7 +52366,7 @@
       "orig_tc": "油塘",
       "dest_tc": "美孚",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "YA06T11500",
         "KO01N10500",
@@ -52513,7 +52543,7 @@
       "orig_tc": "美孚",
       "dest_tc": "葵盛(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Circular  Overnight Service",
+      "special_remark_en": "",
       "stops": [
         "ME01T13000",
         "CA07N10000",
@@ -52619,7 +52649,7 @@
       "orig_tc": "紅磡站",
       "dest_tc": "青衣(長宏邨)",
       "special_remark_tc": "",
-      "special_remark_en": "Overnight Service",
+      "special_remark_en": "",
       "stops": [
         "HU03T10500",
         "CH08W10000",
@@ -52689,7 +52719,7 @@
       "orig_tc": "青衣站",
       "dest_tc": "長青(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Specific Day Only",
+      "special_remark_en": "",
       "stops": [
         "TS21T11500",
         "TS16N11500",
@@ -53114,7 +53144,9 @@
         "SC02S09750",
         "SC02S10750",
         "UN01T10000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "N276",
@@ -53156,8 +53188,8 @@
       "dest_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
       "orig_tc": "天慈",
       "dest_tc": "新田運輸交匯處",
-      "special_remark_tc": "指定日期服務 31/7 及1,2,7-9,14-16,21-23,28-30/8",
-      "special_remark_en": "On Specific Day Only 31/7 & 1,2,7-9,14-16,21-23,28",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "TI05T09500",
         "TI06W10000",
@@ -53460,7 +53492,7 @@
       "orig_tc": "荃灣西站",
       "dest_tc": "康城站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS24T22000",
         "TA10N10000",
@@ -53674,7 +53706,7 @@
       "orig_tc": "太和",
       "dest_tc": "上環",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "PO17E10000",
         "TI08E10000",
@@ -54313,7 +54345,7 @@
       "orig_tc": "梨木樹",
       "dest_tc": "港珠澳大橋香港口岸",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LE07T10252",
         "WO04S10902",
@@ -54437,7 +54469,7 @@
       "orig_tc": "葵涌邨",
       "dest_tc": "港珠澳大橋香港口岸",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "KW15T10002",
         "WO03E10002",
@@ -54598,7 +54630,7 @@
       "orig_tc": "國泰城",
       "dest_tc": "錦上路站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "CH73S10502",
         "GT70T11002",
@@ -54672,7 +54704,7 @@
       "orig_tc": "天水圍市中心",
       "dest_tc": "國泰城",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TI04T11002",
         "TI21E09502",
@@ -54755,7 +54787,7 @@
       "orig_tc": "烏溪沙站",
       "dest_tc": "港珠澳大橋香港口岸",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "WU01T12002",
         "SA03S15002",
@@ -54840,7 +54872,7 @@
       "orig_tc": "水泉澳",
       "dest_tc": "港珠澳大橋香港口岸",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "SH33T12002",
         "SI02E11502",
@@ -54923,7 +54955,7 @@
       "orig_tc": "粉嶺(聯和墟)",
       "dest_tc": "港珠澳大橋香港口岸",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "LU02T11252",
         "SH02S21252",
@@ -55084,7 +55116,7 @@
       "orig_tc": "國泰城",
       "dest_tc": "屯門公路轉車站(九龍方向)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "CH73S10502",
         "GT70T10502",
@@ -55319,8 +55351,8 @@
       "dest_en": "Sheung Shui",
       "orig_tc": "西沙 GO PARK",
       "dest_tc": "上水",
-      "special_remark_tc": "星期六日及公眾假期",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N08400",
         "SB15N08900",
@@ -55339,8 +55371,8 @@
       "dest_en": "Sheung Shui",
       "orig_tc": "西沙 GO PARK",
       "dest_tc": "上水",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N08400",
         "SB15N08200",
@@ -55394,8 +55426,8 @@
       "dest_en": "Hong Kong Palace Museum",
       "orig_tc": "西沙 GO PARK",
       "dest_tc": "香港故宮文化博物館",
-      "special_remark_tc": "星期六及日",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N08400",
         "SB15N03800",
@@ -55414,7 +55446,7 @@
       "orig_tc": "西沙 GO PARK",
       "dest_tc": "啟德(沐元街)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "SB15N08400",
         "SB15N03800",
@@ -55471,8 +55503,8 @@
       "dest_en": "Kornhill Plaza",
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "康怡廣場",
-      "special_remark_tc": "星期六及日",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N20100",
         "SB15N20200",
@@ -55491,8 +55523,8 @@
       "dest_en": "Kornhill Plaza",
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "康怡廣場",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N20100",
         "SB15N20200",
@@ -55547,8 +55579,8 @@
       "dest_en": "YOHO MALL (YUEN LONG)",
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "元朗 形點",
-      "special_remark_tc": "星期六及日",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N20100",
         "SB15N01000",
@@ -55566,8 +55598,8 @@
       "dest_en": "YOHO MALL (YUEN LONG)",
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "元朗 形點",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N20100",
         "SB15N01000",
@@ -55621,8 +55653,8 @@
       "dest_en": "DISCOVERY BAY PLAZA",
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "愉景廣場",
-      "special_remark_tc": "星期六及日",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N20100",
         "SB15N02700",
@@ -55640,8 +55672,8 @@
       "dest_en": "DISCOVERY BAY PLAZA",
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "愉景廣場",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SB15N20100",
         "SB15N02700",
@@ -55659,8 +55691,8 @@
       "dest_en": "Lantau Link BBI (Circular)",
       "orig_tc": "迪士尼樂園",
       "dest_tc": "青嶼幹線轉車站(循環線)",
-      "special_remark_tc": "不經迪欣湖",
-      "special_remark_en": "Omit Inspiration Lake",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "DI70T13002",
         "LA70E09002",
@@ -55676,8 +55708,8 @@
       "dest_en": "Lantau Link BBI (Circular)",
       "orig_tc": "迪士尼樂園",
       "dest_tc": "青嶼幹線轉車站(循環線)",
-      "special_remark_tc": "經迪欣湖",
-      "special_remark_en": "Via Inspiration Lake",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "DI70T13002",
         "IN70K10502",
@@ -55695,8 +55727,8 @@
       "dest_en": "Lantau Link BBI (Circular)",
       "orig_tc": "迪士尼樂園",
       "dest_tc": "青嶼幹線轉車站(循環線)",
-      "special_remark_tc": "經迪欣湖(只限青嶼幹線轉車站方向)",
-      "special_remark_en": "Via Inspiration Lake(Lantau Link BBI bound only)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "DI70T13002",
         "IN70K10502",
@@ -55788,8 +55820,8 @@
       "dest_en": "TUEN MUN STATION",
       "orig_tc": "迪士尼樂園",
       "dest_tc": "屯門站",
-      "special_remark_tc": "經迪欣湖",
-      "special_remark_en": "Via Inspiration Lake",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "DI70T13502",
         "IN70K10502",
@@ -55873,7 +55905,8 @@
         "TA21N27000",
         "TA22W06000",
         "PO17E10000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "R94",
@@ -55892,7 +55925,8 @@
         "SA03S13000",
         "TA17E16500",
         "PA02N14000"
-      ]
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "R108",
@@ -55902,8 +55936,8 @@
       "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
       "orig_tc": "啟業",
       "dest_tc": "銅鑼灣(維多利亞公園)",
-      "special_remark_tc": "只在2026年1月18日行走",
-      "special_remark_en": "Service on 18.1.2026 only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA01T11500",
         "WA12N11500",
@@ -55934,8 +55968,8 @@
       "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
       "orig_tc": "藍田(廣田邨)",
       "dest_tc": "尖東麼地道",
-      "special_remark_tc": "只2026年1月18日行走",
-      "special_remark_en": "Service on 18. 1. 2026 only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "LA05T11000",
         "PI01N10500",
@@ -55981,8 +56015,8 @@
       "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
       "orig_tc": "荃灣(荃威花園)",
       "dest_tc": "尖沙咀東(麼地道)",
-      "special_remark_tc": "馬拉松特別路線",
-      "special_remark_en": "Marathon Special Route",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "AL01T10000",
         "TS11S10500",
@@ -56011,8 +56045,8 @@
       "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
       "orig_tc": "青衣(長宏邨)",
       "dest_tc": "尖沙咀東(麼地道)",
-      "special_remark_tc": "馬拉松特別路線",
-      "special_remark_en": "Marathon Special Route",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH21T10000",
         "CH03T10500",
@@ -56067,7 +56101,9 @@
         "TU17S12500",
         "CH06S11000",
         "TS27T14000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R269",
@@ -56102,7 +56138,9 @@
         "TA44S12000",
         "CH06S11000",
         "TS27T14000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R270",
@@ -56132,7 +56170,9 @@
         "PR03S10500",
         "CH06S11000",
         "TS27T14000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R271",
@@ -56168,7 +56208,9 @@
         "PR03S10500",
         "CH06S11000",
         "TS27T14000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R283",
@@ -56202,7 +56244,9 @@
         "HU02E12500",
         "CH06S11000",
         "TS27T14000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R287",
@@ -56234,7 +56278,9 @@
         "TA02S12000",
         "CH06S11000",
         "TS27T14000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R298",
@@ -56244,8 +56290,8 @@
       "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
       "orig_tc": "康盛花園",
       "dest_tc": "尖沙咀東(麼地道)",
-      "special_remark_tc": "只於2026年1月18日提供服務",
-      "special_remark_en": "Service on 18. 1. 2026 only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HO03T11000",
         "PO05E10000",
@@ -56283,7 +56329,9 @@
         "TS22W11000",
         "CH06S11000",
         "TS27T14000"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R307",
@@ -56297,7 +56345,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R603",
@@ -56307,8 +56357,8 @@
       "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
       "orig_tc": "安泰(西)",
       "dest_tc": "銅鑼灣(維多利亞公園)",
-      "special_remark_tc": "只在2026年1月18日行走",
-      "special_remark_en": "Service on 18. 1. 2026 only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ON16K10500",
         "ON14E08000",
@@ -56356,7 +56406,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R673",
@@ -56392,7 +56444,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R678",
@@ -56422,7 +56476,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R680",
@@ -56451,7 +56507,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R934",
@@ -56461,8 +56519,8 @@
       "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
       "orig_tc": "荃灣(灣景花園)",
       "dest_tc": "銅鑼灣(維多利亞公園)",
-      "special_remark_tc": "馬拉松特別路線",
-      "special_remark_en": "Marathon Special Route",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "BA01T10500",
         "CA07S45000",
@@ -56489,8 +56547,8 @@
       "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
       "orig_tc": "荃灣(石圍角)",
       "dest_tc": "銅鑼灣(維多利亞公園)",
-      "special_remark_tc": "馬拉松特別路線",
-      "special_remark_en": "Marathon Special Route",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "SH11T10000",
         "YI01E10000",
@@ -56517,8 +56575,8 @@
       "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
       "orig_tc": "青衣(長宏邨)",
       "dest_tc": "銅鑼灣(維多利亞公園)",
-      "special_remark_tc": "馬拉松特別路線",
-      "special_remark_en": "Marathon Special Route",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH21T10500",
         "LI03S10000",
@@ -56579,7 +56637,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R961",
@@ -56603,7 +56663,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "R968",
@@ -56629,7 +56691,9 @@
         "HO06S13000",
         "PE01W10500",
         "CA08E13800"
-      ]
+      ],
+      "special_remark_tc": "",
+      "special_remark_en": ""
     },
     {
       "route": "S1",
@@ -56769,7 +56833,7 @@
       "orig_tc": "翔東邨",
       "dest_tc": "機場(貨運及航膳區)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "CH71T12002",
         "YI06E10252",
@@ -56806,8 +56870,8 @@
       "dest_en": "AIRPORT (CARGO AND CATERING AREA)",
       "orig_tc": "翔東邨",
       "dest_tc": "機場(貨運及航膳區)",
-      "special_remark_tc": "經東涌碼頭",
-      "special_remark_en": "via Tung Chung Pier",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH71T12002",
         "YI06E10252",
@@ -56846,7 +56910,7 @@
       "orig_tc": "東涌(滿東)",
       "dest_tc": "機場(循環線)",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "YU70W11002",
         "YU70E10002",
@@ -56886,8 +56950,8 @@
       "dest_en": "Airport(Circular)",
       "orig_tc": "東涌(滿東)",
       "dest_tc": "機場(循環線)",
-      "special_remark_tc": "經博覽館",
-      "special_remark_en": "Via AsiaWorld-Expo",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "YU70W11002",
         "YU70E10002",
@@ -56925,8 +56989,8 @@
       "dest_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
       "orig_tc": "啟德體育園",
       "dest_tc": "坑口(北)(將軍澳醫院)",
-      "special_remark_tc": "只於指定日期提供服務",
-      "special_remark_en": "Service on specific day only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA11T11500",
         "KW16E19000",
@@ -56962,8 +57026,8 @@
       "dest_en": "CHING FU COURT",
       "orig_tc": "啟德體育園",
       "dest_tc": "青富苑",
-      "special_remark_tc": "只於指定日期提供服務",
-      "special_remark_en": "Service on Specific Day Only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA11T13000",
         "LA03N19500",
@@ -57017,8 +57081,8 @@
       "dest_en": "TUEN MUN PIER HEAD",
       "orig_tc": "啟德體育園",
       "dest_tc": "屯門碼頭",
-      "special_remark_tc": "只於指定日期提供服務",
-      "special_remark_en": "Service on Specific Day Only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA11T10500",
         "TU17N10000",
@@ -57058,8 +57122,8 @@
       "dest_en": "TIN HENG ESTATE",
       "orig_tc": "啟德體育園",
       "dest_tc": "天恆邨",
-      "special_remark_tc": "只於指定日期提供服務",
-      "special_remark_en": "Service on Specific Day Only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA11T11000",
         "TA44N10000",
@@ -57089,8 +57153,8 @@
       "dest_en": "SHEUNG SHUI",
       "orig_tc": "啟德體育園",
       "dest_tc": "上水",
-      "special_remark_tc": "只在指定日期提供服務",
-      "special_remark_en": "Service on Specific Day Only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA11T13500",
         "TA38N11500",
@@ -57117,8 +57181,8 @@
       "dest_en": "CENTRAL (MACAO FERRY)",
       "orig_tc": "啟德體育園",
       "dest_tc": "中環(港澳碼頭)",
-      "special_remark_tc": "只於指定日期提供服務",
-      "special_remark_en": "Service on specific day only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KA11T12500",
         "HO06S13010",
@@ -57235,8 +57299,8 @@
       "dest_en": "KOWLOON BAY",
       "orig_tc": "美田",
       "dest_tc": "九龍灣",
-      "special_remark_tc": "星期一至五 早上繁忙時間 由美田開出",
-      "special_remark_en": "Morning Peak Monday to Friday Departure from Mei T",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ME03T11000",
         "HE05E10000",
@@ -57263,8 +57327,8 @@
       "dest_en": "KOWLOON BAY",
       "orig_tc": "顯徑",
       "dest_tc": "九龍灣",
-      "special_remark_tc": "由顯徑開出",
-      "special_remark_en": "Departure from Hin Keng",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "HI01T11000",
         "HI01N10000",
@@ -57443,8 +57507,8 @@
       "dest_en": "LAGUNA PARK",
       "orig_tc": "高鐵(西九龍站)",
       "dest_tc": "麗港公園",
-      "special_remark_tc": "以麗港公園站為尾站",
-      "special_remark_en": "Terminate at Laguna Park",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WE03T19000",
         "WU07E12000",
@@ -57471,8 +57535,8 @@
       "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
       "orig_tc": "創紀之城",
       "dest_tc": "高鐵(西九龍站)",
-      "special_remark_tc": "由創紀之城站開出",
-      "special_remark_en": "Depart from Millennium City",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "KW16E18900",
         "KW16E20650",
@@ -57559,8 +57623,8 @@
       "dest_en": "WKCD ‧ TSIM SHA TSUI ‧ HIGH SPEED RAIL",
       "orig_tc": "高鐵(西九龍站)",
       "dest_tc": "西九文化區 ‧ 尖沙咀 ‧ 高鐵站",
-      "special_remark_tc": "(循環線)",
-      "special_remark_en": "(Circular)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "WU07W13000",
         "JO02W14000",
@@ -57604,7 +57668,7 @@
       "orig_tc": "東涌站",
       "dest_tc": "機場博覽館",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TA70T10002",
         "AI70E10002"
@@ -57654,8 +57718,8 @@
       "dest_en": "HK CHILDREN'S HOSPITAL",
       "orig_tc": "美孚",
       "dest_tc": "香港兒童醫院",
-      "special_remark_tc": "特快線",
-      "special_remark_en": "Express",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "ME01T13000",
         "LA03S09500",
@@ -57864,7 +57928,7 @@
       "orig_tc": "青衣(長亨邨)",
       "dest_tc": "油塘",
       "special_remark_tc": "",
-      "special_remark_en": "Express",
+      "special_remark_en": "",
       "stops": [
         "CH03T11000",
         "TS18N10500",
@@ -57909,8 +57973,8 @@
       "dest_en": "YAU TONG",
       "orig_tc": "長康邨康祥樓",
       "dest_tc": "油塘",
-      "special_remark_tc": "由康祥樓開出",
-      "special_remark_en": "Hong Cheung House Cheung Hong Estate Special Depar",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH14E10750",
         "CH14E11200",
@@ -57945,8 +58009,8 @@
       "dest_en": "YAU TONG",
       "orig_tc": "青衣(長亨邨)",
       "dest_tc": "油塘",
-      "special_remark_tc": "不經青富苑",
-      "special_remark_en": "(Omit Ching Fu Court)",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "CH03T11000",
         "TS18N10500",
@@ -57991,7 +58055,7 @@
       "orig_tc": "青衣站",
       "dest_tc": "藍田站",
       "special_remark_tc": "",
-      "special_remark_en": "Normal",
+      "special_remark_en": "",
       "stops": [
         "TS21T12000",
         "CH05T11750",
@@ -58136,8 +58200,8 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "泥涌",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "經耀沙路",
-      "special_remark_en": "via Yiu Sha Road",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "NA01T10000",
         "SA03N15500",
@@ -58183,8 +58247,8 @@
       "dest_en": "HUNG NGOK HOUSE",
       "orig_tc": "消防及救護學院",
       "dest_tc": "紅萼樓",
-      "special_remark_tc": "只在2026年4月12日服務",
-      "special_remark_en": "Service on 12/04/2026 only",
+      "special_remark_tc": "",
+      "special_remark_en": "",
       "stops": [
         "PA07S10000",
         "TS22W10500",
