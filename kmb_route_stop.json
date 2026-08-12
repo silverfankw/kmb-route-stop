@@ -11962,6 +11962,7 @@
       "orig_tc": "匯民道",
       "dest_en": "TUEN MUN FERRY PIERS",
       "dest_tc": "屯門碼頭",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
       "stops": [
         "WU07T10009",
         "TU17N10000",
@@ -11986,7 +11987,6 @@
         "WU03E11000",
         "TU01T10000"
       ],
-      "special_remark_tc": "",
       "special_remark_en": ""
     },
     {
@@ -13166,6 +13166,43 @@
       ]
     },
     {
+      "route": "65R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "TIN SHUI",
+      "dest_tc": "天瑞",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "TA44N10500",
+        "KA06W16500",
+        "KA06W17000",
+        "KA06W17500",
+        "CA07S14000",
+        "CA07S14500",
+        "CA07S15500",
+        "CA07S16750",
+        "CA07S17250",
+        "CA07S18500",
+        "CA07S19250",
+        "CA07S19500",
+        "CA07S19750",
+        "TI10N10000",
+        "TI21E10000",
+        "TI12N10000",
+        "TI12N10250",
+        "TI12N10500",
+        "WE02W13000",
+        "TI05S03500",
+        "TI05S04000",
+        "TI05S04400",
+        "TI02T11000"
+      ],
+      "special_remark_en": ""
+    },
+    {
       "route": "65X",
       "bound": "O",
       "service_type": "1",
@@ -13431,6 +13468,45 @@
         "KW08S10500",
         "KW01T11250"
       ]
+    },
+    {
+      "route": "67R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "HUNG SHUI KIU (HUNG FUK ESTATE)",
+      "dest_tc": "洪水橋洪福邨",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "TU17N10000",
+        "HO02E10000",
+        "HO02E10500",
+        "TU05N10000",
+        "TU03N11000",
+        "TU06N10000",
+        "TU06N10500",
+        "TS14S10750",
+        "SH12W09500",
+        "SH12W10000",
+        "MI02N10200",
+        "TI02N09000",
+        "TI02N10000",
+        "MI02N10500",
+        "TS14S10000",
+        "TS05N10000",
+        "TS05N10500",
+        "TS05N13000",
+        "CA07N46000",
+        "CA07N46500",
+        "CA07N47000",
+        "CA07N47500",
+        "CA07N48000",
+        "CA07N48500",
+        "HU07T11500"
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "67X",
@@ -14428,6 +14504,38 @@
         "WA02W10000",
         "WA01T13000"
       ]
+    },
+    {
+      "route": "70R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "FANLING (LUEN WO HUI)",
+      "dest_tc": "粉嶺(聯和墟)",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "TA44N11000",
+        "LO04T10000",
+        "PO08N10000",
+        "CH17E10000",
+        "CH17E10500",
+        "PA05E08000",
+        "PA05E08500",
+        "PA05E09000",
+        "PA05E09500",
+        "PA05E09800",
+        "PA05E10500",
+        "PA05E11000",
+        "JO01W09500",
+        "SA12W10000",
+        "SA12W10800",
+        "SH02N10000",
+        "SH02N10500",
+        "LU02T10500"
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "70S",
@@ -28755,6 +28863,42 @@
         "KA04N12000",
         "LA08T13000"
       ]
+    },
+    {
+      "route": "216R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "SHUN TIN",
+      "dest_tc": "順天",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "KW16E20750",
+        "LE03E10500",
+        "LE03E14500",
+        "LE03E16000",
+        "LE03E16500",
+        "KO01N10500",
+        "KO01N11000",
+        "PI01N09000",
+        "PI01N10500",
+        "PI01N11500",
+        "PI01N12500",
+        "PI01N13500",
+        "LI01N10500",
+        "ON15W10000",
+        "ON14W11000",
+        "ON14W11500",
+        "ON04T10500",
+        "LE01E09000",
+        "LE01E09500",
+        "SH31E10000",
+        "LE01E10000",
+        "SH17T10000"
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "219X",
