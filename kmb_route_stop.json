@@ -56308,32 +56308,6 @@
       ]
     },
     {
-      "route": "R298",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "HONG SING GARDEN",
-      "orig_tc": "康盛花園",
-      "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-      "dest_tc": "尖沙咀東(麼地道)",
-      "stops": [
-        "HO03T10500",
-        "PO05E10000",
-        "PO05E10500",
-        "PO05E11000",
-        "PO05E11500",
-        "YA03E10500",
-        "PO05E12500",
-        "PO06E10000",
-        "CH24E10000",
-        "NG07E10000",
-        "TS22W11000",
-        "CH06S11000",
-        "TS27T14000"
-      ],
-      "special_remark_tc": "",
-      "special_remark_en": ""
-    },
-    {
       "route": "R307",
       "bound": "O",
       "service_type": "1",
@@ -56393,22 +56367,6 @@
         "PE01W10500",
         "CA08E13900"
       ]
-    },
-    {
-      "route": "R603",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "ON TAI (WEST) (WO TAI HOUSE)",
-      "orig_tc": "安泰(西)(和泰樓)",
-      "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-      "dest_tc": "銅鑼灣(維多利亞公園)",
-      "stops": [
-        "HO06S13000",
-        "PE01W10500",
-        "CA08E13800"
-      ],
-      "special_remark_tc": "",
-      "special_remark_en": ""
     },
     {
       "route": "R673",
