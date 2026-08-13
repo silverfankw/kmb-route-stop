@@ -29116,7 +29116,6 @@
         "SH42N10000",
         "WA12S08000",
         "NG01T11500",
-        "NG01T11500",
         "CH43E10000",
         "LU05W10500",
         "PO03W10000",
@@ -30242,6 +30241,51 @@
         "TS11N11500",
         "TS11S10000"
       ]
+    },
+    {
+      "route": "246R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "KWAI CHUNG (LAI YIU ESTATE)",
+      "dest_tc": "葵涌(麗瑤邨)",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "JO02E13000",
+        "NA06N23000",
+        "NA06N31250",
+        "NA06N33500",
+        "NA06N38500",
+        "NA06N43500",
+        "LA03N12250",
+        "LA03N13250",
+        "LA03N13500",
+        "LA03N14000",
+        "TO05E10000",
+        "TO05E10500",
+        "PO07N10000",
+        "PO07N10500",
+        "HI08S12001",
+        "LA03N15100",
+        "LA03N15250",
+        "ME01N10000",
+        "LA09N10000",
+        "LA05N10000",
+        "LA05N10500",
+        "LA05N10750",
+        "LA05N11000",
+        "LA05N11500",
+        "LA05N12000",
+        "KI02N10000",
+        "LA05N14000",
+        "LA05N14500",
+        "LA04E10000",
+        "LA04E10500",
+        "LA04T10500"
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "248M",
@@ -35605,6 +35649,42 @@
       ]
     },
     {
+      "route": "272R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "TAI WO",
+      "dest_tc": "太和",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "TS21N12500",
+        "TS21N12500",
+        "SC02N09500",
+        "SC02N10000",
+        "SC02N11000",
+        "CH41N10000",
+        "CH41N10500",
+        "CH41N11000",
+        "CH41N11500",
+        "CH41N12000",
+        "TA21N27000",
+        "KW11W10900",
+        "PO02N11000",
+        "ON01N10000",
+        "TA07T10000",
+        "TI08E12000",
+        "FU01T09500",
+        "TI08W20500",
+        "TI08W21000",
+        "TI08W21500",
+        "TA22W10500",
+        "TA12T12000"
+      ],
+      "special_remark_en": ""
+    },
+    {
       "route": "272S",
       "bound": "I",
       "service_type": "1",
@@ -37284,15 +37364,13 @@
       "special_remark_tc": "",
       "special_remark_en": "",
       "stops": [
-        "LU02T10000",
         "WO11W09500",
         "FA04S10000",
         "SA12E10400",
         "FA02W10500",
         "SH02N10000",
         "FA04N10000",
-        "WO11E10000",
-        "LU02T10000"
+        "WO11E10000"
       ]
     },
     {
@@ -37306,7 +37384,6 @@
       "special_remark_tc": "經粉嶺樓路站",
       "special_remark_en": "Via Fan Leng Lau Road",
       "stops": [
-        "LU02T10000",
         "WO11W09500",
         "FA04S09500",
         "FA04S10000",
@@ -37314,8 +37391,7 @@
         "FA02W10500",
         "SH02N10000",
         "FA04N10000",
-        "WO11E10000",
-        "LU02T10000"
+        "WO11E10000"
       ]
     },
     {
@@ -37329,7 +37405,6 @@
       "special_remark_tc": "經粉嶺樓路站",
       "special_remark_en": "Via Fan Leng Lau Road",
       "stops": [
-        "LU02T10000",
         "WO11W09500",
         "FA04S10000",
         "SA12E10400",
@@ -37337,8 +37412,7 @@
         "SH02N10000",
         "FA04N10000",
         "FA04N10500",
-        "WO11E10000",
-        "LU02T10000"
+        "WO11E10000"
       ]
     },
     {
@@ -38503,6 +38577,42 @@
         "NA06S21500",
         "NA06S33000"
       ]
+    },
+    {
+      "route": "287R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "WU KAI SHA STATION",
+      "dest_tc": "烏溪沙站",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "TS21N11500",
+        "CH07N11500",
+        "CH07N12500",
+        "CH07N13000",
+        "TA02N10000",
+        "TA02N10500",
+        "TA02N12000",
+        "TA02N13000",
+        "TA02N13600",
+        "TA02N14000",
+        "AH01N10500",
+        "AH01N11500",
+        "AH01N12000",
+        "HA03W11100",
+        "HA03W11500",
+        "SA03S05000",
+        "SA03S10000",
+        "MA02S10000",
+        "KA07E10000",
+        "KA07E12000",
+        "SA03S11500",
+        "WU01T11000"
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "287X",
@@ -40065,6 +40175,35 @@
         "PO06E10600",
         "HA02T12000"
       ]
+    },
+    {
+      "route": "298R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "WUI MAN ROAD",
+      "orig_tc": "匯民道",
+      "dest_en": "HANG HAU (NORTH)(TKO HOSPITAL)",
+      "dest_tc": "坑口(北)(將軍澳醫院)",
+      "special_remark_tc": "只於西九文化區舉行指定大型活動散場時提供服務",
+      "stops": [
+        "WU07T10009",
+        "SA13W10000",
+        "SA13W10250",
+        "PO04E09000",
+        "PO04E10000",
+        "PO04E10500",
+        "PO04E11000",
+        "PO05E10000",
+        "PO05E10500",
+        "PO05E11000",
+        "PO05E11500",
+        "PO05E12500",
+        "PO06E10000",
+        "CH24E09000",
+        "PU02W11500",
+        "HA02T11500"
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "298X",
@@ -45493,6 +45632,51 @@
         "HE02E20500",
         "CA08E13800"
       ]
+    },
+    {
+      "route": "960R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "HUNG SHUI KIU (HUNG YUEN ROAD)",
+      "orig_tc": "洪水橋(洪元路)",
+      "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
+      "dest_tc": "銅鑼灣(維多利亞公園)",
+      "special_remark_tc": "只於香港街馬活動日清晨提供服務",
+      "stops": [
+        "HU05T10000",
+        "HU09N10000",
+        "HU03N09550",
+        "CA07S22500",
+        "CA07S23500",
+        "CA07S24000",
+        "CA07S24500",
+        "CA07S25000",
+        "CA07S25500",
+        "CA07S26000",
+        "TS05S09000",
+        "TS05S09500",
+        "TS05S10000",
+        "TS05S10500",
+        "TS14N10500",
+        "MI02S10000",
+        "TI02S10000",
+        "TI02S10500",
+        "MI02S10200",
+        "SH12E10000",
+        "SH12E10500",
+        "TS14N09500",
+        "TU06S10250",
+        "TU06N10000",
+        "TU02T14000",
+        "TU05S12650",
+        "TU05S14000",
+        "HO02W10500",
+        "TU17S13000",
+        "HO06S13000",
+        "PE01W10500",
+        "CA08E13800"
+      ],
+      "special_remark_en": ""
     },
     {
       "route": "960S",
@@ -66509,6 +66693,10 @@
     "HI08S11000": {
       "stop_name_zh": "興華街西(海盈邨)",
       "stop_name_en": "HING WAH STREET WESTHOI YING ESTATE"
+    },
+    "HI08S12001": {
+      "stop_name_zh": "元州街",
+      "stop_name_en": "UN CHAU STREET"
     },
     "HI70S10000": {
       "stop_name_zh": "和田邨",
