@@ -625,7 +625,7 @@
       "dest_en": "CHEUNG SHA WAN",
       "orig_tc": "慈雲山(北)",
       "dest_tc": "長沙灣",
-      "special_remark_tc": "經富山",
+      "special_remark_tc": "經富山邨",
       "special_remark_en": "Via Fu Shan Estate",
       "stops": [
         "TS14T10500",
@@ -1254,7 +1254,7 @@
       "dest_en": "CHINA FERRY TERMINAL",
       "orig_tc": "慈雲山(北)",
       "dest_tc": "中港碼頭",
-      "special_remark_tc": "經富山",
+      "special_remark_tc": "經富山邨",
       "special_remark_en": "Via Fu Shan Estate",
       "stops": [
         "TS14T11000",
@@ -14008,7 +14008,7 @@
       "dest_en": "MONG KOK (PARK AVENUE)",
       "orig_tc": "朗屏邨悅屏樓",
       "dest_tc": "旺角(柏景灣)",
-      "special_remark_tc": "由朗屏開出",
+      "special_remark_tc": "由朗屏邨開出",
       "special_remark_en": "Departed from Long Ping Estate",
       "stops": [
         "WA14E10500",
@@ -16973,7 +16973,7 @@
       "dest_en": "KWUN TONG FERRY",
       "orig_tc": "廣福邨",
       "dest_tc": "觀塘碼頭",
-      "special_remark_tc": "廣福特別班",
+      "special_remark_tc": "廣福邨特別班",
       "special_remark_en": "Sp. Dept from Kwong Fuk Estate",
       "stops": [
         "TA21S12000",
@@ -18873,7 +18873,7 @@
       "dest_en": "SUN TIN WAI",
       "orig_tc": "穗禾苑",
       "dest_tc": "新田圍",
-      "special_remark_tc": "經駿洋",
+      "special_remark_tc": "經駿洋邨",
       "special_remark_en": "Via Chun Yeung Estate, omit Shan Mei Street and Sh",
       "stops": [
         "SU01T10500",
@@ -33116,7 +33116,7 @@
       "dest_en": "HUNG HOM (HUNG LUEN ROAD)",
       "orig_tc": "洪元路(洪福邨)",
       "dest_tc": "紅磡(紅鸞道)",
-      "special_remark_tc": "由洪福開出",
+      "special_remark_tc": "由洪福邨開出",
       "special_remark_en": "Departed from Hung Fuk Estate",
       "stops": [
         "HU09S10000",
@@ -33847,7 +33847,7 @@
       "dest_en": "LEK YUEN",
       "orig_tc": "天水圍站",
       "dest_tc": "瀝源",
-      "special_remark_tc": "天水圍站特別班(經洪福)",
+      "special_remark_tc": "天水圍站特別班(經洪福邨)",
       "special_remark_en": "Tin Shui Wai Station Special Departure (via Hung F",
       "stops": [
         "TI10T10000",
@@ -34471,7 +34471,7 @@
       "dest_en": "SHEUNG SHUI",
       "orig_tc": "深水埗",
       "dest_tc": "上水",
-      "special_remark_tc": "由深水開出",
+      "special_remark_tc": "由深水埗開出",
       "special_remark_en": "Originate from Sham Shui Po",
       "stops": [
         "CH11N13400",
@@ -35848,7 +35848,7 @@
       "dest_en": "WAH MING (CIRCULAR)",
       "orig_tc": "彩石邨",
       "dest_tc": "華明(循環線)",
-      "special_remark_tc": "由彩石開出",
+      "special_remark_tc": "由彩石邨開出",
       "special_remark_en": "Normal",
       "stops": [
         "CH17E09500",
@@ -35892,7 +35892,7 @@
       "dest_en": "WAH MING (CIRCULAR)",
       "orig_tc": "彩石邨",
       "dest_tc": "華明(循環線)",
-      "special_remark_tc": "彩石開來回經風采中學",
+      "special_remark_tc": "彩石邨開來回經風采中學",
       "special_remark_en": "Via Elegantia College(Both bound)",
       "stops": [
         "CH17E09500",
@@ -35938,7 +35938,7 @@
       "dest_en": "WAH MING (CIRCULAR)",
       "orig_tc": "彩石邨",
       "dest_tc": "華明(循環線)",
-      "special_remark_tc": "彩石開去程經風采中學",
+      "special_remark_tc": "彩石邨開去程經風采中學",
       "special_remark_en": "Via Elegantia College(Wah Ming bound only)",
       "stops": [
         "CH17E09500",
@@ -38150,7 +38150,7 @@
       "dest_en": "FO TAN CHUN YEUNG ESTATE",
       "orig_tc": "火炭站",
       "dest_tc": "火炭駿洋邨",
-      "special_remark_tc": "以駿洋為尾站",
+      "special_remark_tc": "以駿洋邨為尾站",
       "special_remark_en": "Terminated at Chun Yeung Estate",
       "stops": [
         "FO02T10000",
@@ -42911,7 +42911,7 @@
       "dest_en": "ADMIRALTY STATION (EAST)",
       "orig_tc": "利安",
       "dest_tc": "金鐘站(東)",
-      "special_remark_tc": "經頌安",
+      "special_remark_tc": "經頌安邨",
       "special_remark_en": "Via Chung On Estate",
       "stops": [
         "LE01T11500",
@@ -46069,7 +46069,7 @@
       "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
       "orig_tc": "屯門(良景邨)",
       "dest_tc": "銅鑼灣(維園)",
-      "special_remark_tc": "經業旺",
+      "special_remark_tc": "經業旺邨",
       "special_remark_en": "Via Yip Wong Estate",
       "stops": [
         "LE05T10500",
