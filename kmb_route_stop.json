@@ -5432,7 +5432,7 @@
         "CL01E10000",
         "CL01E12450",
         "NE01E11000",
-        "SH31E08990",
+        "NE01E12000",
         "SH31E10000",
         "LE01E10000",
         "SH17T11000",
@@ -8915,7 +8915,7 @@
         "PR01E18250",
         "CL01E12400",
         "NE01E11000",
-        "NE01E11230",
+        "NE01E12000",
         "SH31E10000",
         "LE01W11000",
         "SH16T11000"
@@ -18951,18 +18951,6 @@
       ]
     },
     {
-      "route": "81X",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "",
-      "dest_en": "",
-      "orig_tc": "",
-      "dest_tc": "",
-      "special_remark_tc": "",
-      "special_remark_en": "",
-      "stops": []
-    },
-    {
       "route": "82B",
       "bound": "O",
       "service_type": "1",
@@ -22006,7 +21994,7 @@
         "CH15E10000",
         "LU05E18250",
         "NE01E10500",
-        "NE01E11240",
+        "NE01E11500",
         "LE01W14500",
         "NE01E12500",
         "CL01E12500",
@@ -22051,7 +22039,7 @@
         "CH15E10000",
         "LU05E18250",
         "NE01E10500",
-        "NE01E11240",
+        "NE01E11500",
         "LE01W14500",
         "NE01E12500",
         "CL01E12500",
@@ -22159,7 +22147,7 @@
         "CH15E10000",
         "LU05E18250",
         "NE01E10500",
-        "NE01E11240",
+        "NE01E11500",
         "LE01W14500",
         "NE01E12500",
         "CL01E12500",
@@ -22389,7 +22377,7 @@
         "CH15E10500",
         "LU05E18500",
         "NE01E10000",
-        "NE01E11240",
+        "NE01E11500",
         "LE01W14500",
         "NE01E12500",
         "CL01E12500",
@@ -22953,7 +22941,7 @@
         "PR01E18250",
         "CL01E12400",
         "NE01E10500",
-        "NE01E11230",
+        "NE01E12000",
         "SH31E10000",
         "SH27S10000",
         "SA13E09500",
@@ -39097,7 +39085,7 @@
         "LU05E13000",
         "LU05E18000",
         "NE01E10500",
-        "NE01E11230",
+        "NE01E12000",
         "SH31E10000",
         "LE01E10000",
         "SH28E10000",
@@ -52960,7 +52948,7 @@
         "CL01E10000",
         "CL01E12400",
         "NE01E10000",
-        "SH31E08990",
+        "NE01E12000",
         "SH31E10000",
         "LE01E10000",
         "SH28E10000",
@@ -54018,7 +54006,7 @@
         "LU05E13000",
         "LU05E18000",
         "NE01E10500",
-        "SH31E08990",
+        "NE01E12000",
         "SH31E10000",
         "LE01E10000",
         "SH28E10000",
@@ -63628,16 +63616,16 @@
       "stop_name_en": "CHEK LAP KOK SOUTH ROAD"
     },
     "CH71T10002": {
-      "stop_name_zh": "翔東邨總站",
-      "stop_name_en": "CHEUNG TUNG ESTATE B/T"
+      "stop_name_zh": "翔東邨",
+      "stop_name_en": "CHEUNG TUNG ESTATE"
     },
     "CH71T11002": {
-      "stop_name_zh": "翔東邨總站",
-      "stop_name_en": "CHEUNG TUNG ESTATE B/T"
+      "stop_name_zh": "翔東邨",
+      "stop_name_en": "CHEUNG TUNG ESTATE"
     },
     "CH71T12002": {
-      "stop_name_zh": "翔東邨總站",
-      "stop_name_en": "CHEUNG TUNG ESTATE B/T"
+      "stop_name_zh": "翔東邨",
+      "stop_name_en": "CHEUNG TUNG ESTATE"
     },
     "CH71W10002": {
       "stop_name_zh": "赤鱲角南路",
