@@ -53553,8 +53553,8 @@
       "dest_en": "TIN TSZ",
       "orig_tc": "新田運輸交匯處",
       "dest_tc": "天慈",
-      "special_remark_tc": "指定日期服務 31/7 及1,2,7-9,14-16,21-23,28-30/8",
-      "special_remark_en": "On Specific Day Only 31/7 & 1,2,7-9,14-16,21-23,28",
+      "special_remark_tc": "指定日期服務 28-30/8 及 4-6,11-13,18-20,25-27,30/9",
+      "special_remark_en": "On Specific Day Only 28-30/8 & 4-6,11-13,18-20,25-",
       "stops": [
         "CA07S11250",
         "CA07S15550",
@@ -53585,8 +53585,8 @@
       "dest_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
       "orig_tc": "天慈",
       "dest_tc": "新田運輸交匯處",
-      "special_remark_tc": "指定日期服務 31/7 及1,2,7-9,14-16,21-23,28-30/8",
-      "special_remark_en": "On Specific Day Only 31/7 & 1,2,7-9,14-16,21-23,28",
+      "special_remark_tc": "指定日期服務 28-30/8 及 4-6,11-13,18-20,25-27,30/9",
+      "special_remark_en": "On Specific Day Only 28-30/8 & 4-6,11-13,18-20,25-",
       "stops": [
         "TI05T09500",
         "TI06W10000",
