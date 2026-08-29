@@ -58637,7 +58637,7 @@
       "special_remark_tc": "只在青馬大橋實行第一階段強風交通管制措施行駛",
       "stops": [
         "PA08T10000",
-        "PA08S10000",
+        "PA08S11000",
         "PA08S10500",
         "TS21T00001"
       ],
@@ -75713,11 +75713,11 @@
     },
     "PA08S10000": {
       "stop_name_zh": "臨海廣場",
-      "stop_name_en": "Beach Commercial Complex"
+      "stop_name_en": "BEACH COMMERCIAL COMPLEX"
     },
     "PA08S10500": {
       "stop_name_zh": "臨海廣場",
-      "stop_name_en": "Beach Commercial Complex"
+      "stop_name_en": "BEACH COMMERCIAL COMPLEX"
     },
     "PA08S11000": {
       "stop_name_zh": "基慧小學",
@@ -78797,7 +78797,7 @@
     },
     "SB15N06300": {
       "stop_name_zh": "屯門站(V City)",
-      "stop_name_en": "TUEN MUN STATION(V City)"
+      "stop_name_en": "TUEN MUN STATION(V CITY)"
     },
     "SB15N07000": {
       "stop_name_zh": "愉景廣場",
@@ -78853,7 +78853,7 @@
     },
     "SB15N11820": {
       "stop_name_zh": "太古城(康怡廣埸)",
-      "stop_name_en": "Taikoo Shing (Kornhill Plaza)"
+      "stop_name_en": "TAIKOO SHING (KORNHILL PLAZA)"
     },
     "SB15N20100": {
       "stop_name_zh": "香港故宮文化博物館",
