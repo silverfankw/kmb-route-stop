@@ -11746,14 +11746,14 @@
       "route": "58M",
       "bound": "O",
       "service_type": "3",
-      "orig_en": "TUEN MUN (PO TIN ESTATE)",
+      "orig_en": "PO TIN BBI",
       "dest_en": "KWAI FONG STATION",
-      "orig_tc": "屯門(寶田邨)",
+      "orig_tc": "寶田轉車站",
       "dest_tc": "葵芳站",
       "special_remark_tc": "由寶田開出",
       "special_remark_en": "Departed from Po Tin",
       "stops": [
-        "PO04T11500",
+        "MI02N10500",
         "TS14S10000",
         "TS14S10500",
         "TU06S09500",
@@ -13900,7 +13900,7 @@
       "special_remark_en": "",
       "stops": [
         "YU03T13000",
-        "CA07N52350",
+        "CA07N53000",
         "CA07N54250",
         "LO04E11500",
         "CA07N54650",
@@ -28339,6 +28339,37 @@
     },
     {
       "route": "213E",
+      "bound": "I",
+      "service_type": "2",
+      "orig_en": "KOWLOON STATION",
+      "dest_en": "ANDERSON",
+      "orig_tc": "九龍站",
+      "dest_tc": "安達臣",
+      "special_remark_tc": "(特快班次經觀塘繞道)",
+      "special_remark_en": "(Express departures via Kwun Tong By-pass)",
+      "stops": [
+        "MT01T11500",
+        "NG06S10500",
+        "CA04S10500",
+        "CA04S11500",
+        "CA04S12000",
+        "SA06E11500",
+        "CH06N10500",
+        "CH06N11500",
+        "CH08E10000",
+        "CH05N11000",
+        "KA02E10000",
+        "SA13W10250",
+        "PO04E09500",
+        "ON18N10000",
+        "ON18N10300",
+        "ON18N11000",
+        "ON19K10000",
+        "AN01T10250"
+      ]
+    },
+    {
+      "route": "213E",
       "bound": "O",
       "service_type": "1",
       "orig_en": "ANDERSON",
@@ -28357,6 +28388,34 @@
         "SA13E12000",
         "KW16W12500",
         "KW16W13000",
+        "KA02W09900",
+        "CH06S10000",
+        "CH06S11000",
+        "CH06S12000",
+        "KO04N09000",
+        "CA04N10000",
+        "AU02W10000",
+        "MT01T11500"
+      ]
+    },
+    {
+      "route": "213E",
+      "bound": "O",
+      "service_type": "2",
+      "orig_en": "ANDERSON",
+      "dest_en": "KOWLOON STATION",
+      "orig_tc": "安達臣",
+      "dest_tc": "九龍站",
+      "special_remark_tc": "(特快班次經觀塘繞道)",
+      "special_remark_en": "(Express departures via Kwun Tong By-pass)",
+      "stops": [
+        "AN01T10250",
+        "ON19A10000",
+        "ON18S10000",
+        "ON18S10500",
+        "ON18S11000",
+        "PO04W10500",
+        "SA13E12000",
         "KA02W09900",
         "CH06S10000",
         "CH06S11000",
@@ -45254,7 +45313,7 @@
         "LI03N10500",
         "CH21T10000",
         "TS16S09500",
-        "TS21T10500"
+        "TS21T10000"
       ]
     },
     {
@@ -67777,20 +67836,20 @@
       "stop_name_en": "7.JORDAN ROAD HSR STATION"
     },
     "JO02W13000": {
-      "stop_name_zh": "佐敦道西九龍站",
-      "stop_name_en": "JORDAN ROAD WEST KOWLOON STN"
+      "stop_name_zh": "佐敦道高鐵站",
+      "stop_name_en": "JORDAN ROAD HSR STATION"
     },
     "JO02W13500": {
-      "stop_name_zh": "佐敦道西九龍站",
-      "stop_name_en": "JORDAN ROAD WEST KOWLOON STN"
+      "stop_name_zh": "佐敦道高鐵站",
+      "stop_name_en": "JORDAN ROAD HSR STATION"
     },
     "JO02W13900": {
       "stop_name_zh": "9.佐敦道高鐵站",
       "stop_name_en": "9.JORDAN ROAD HSR STATION"
     },
     "JO02W14000": {
-      "stop_name_zh": "佐敦道西九龍站",
-      "stop_name_en": "JORDAN ROAD WEST KOWLOON STN"
+      "stop_name_zh": "佐敦道高鐵站",
+      "stop_name_en": "JORDAN ROAD HSR STATION"
     },
     "JO04T10000": {
       "stop_name_zh": "佐敦渡華路",
