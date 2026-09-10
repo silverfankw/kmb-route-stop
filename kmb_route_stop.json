@@ -4954,7 +4954,7 @@
       "dest_en": "HO MAN TIN (OI MAN ESTATE)",
       "orig_tc": "順天",
       "dest_tc": "何文田(愛民邨)",
-      "special_remark_tc": "由2026年9月9日起，提早由順天開出時間至06:55。",
+      "special_remark_tc": "由2026年9月9日起，提早開出時間至06:55。",
       "special_remark_en": "With effective from 9/9/2026, the departure time a",
       "stops": [
         "SH17T11250",
@@ -17077,6 +17077,64 @@
         "KW16E22000",
         "HO05S10500",
         "KW12T14000"
+      ]
+    },
+    {
+      "route": "75F",
+      "bound": "I",
+      "service_type": "1",
+      "orig_en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "dest_en": "TAI PO MARKET STATION",
+      "orig_tc": "香港教育大學",
+      "dest_tc": "大埔墟站",
+      "special_remark_tc": "",
+      "special_remark_en": "",
+      "stops": [
+        "HO04T10500",
+        "TI08W20000",
+        "NA05S10000",
+        "TA21S12000",
+        "TA10T12500"
+      ]
+    },
+    {
+      "route": "75F",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TAI PO MARKET STATION",
+      "dest_en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "orig_tc": "大埔墟站",
+      "dest_tc": "香港教育大學",
+      "special_remark_tc": "",
+      "special_remark_en": "",
+      "stops": [
+        "TA10T09500",
+        "TA21N26900",
+        "NA05N12000",
+        "TI08E12000",
+        "HO04T10500"
+      ]
+    },
+    {
+      "route": "75F",
+      "bound": "O",
+      "service_type": "2",
+      "orig_en": "TAI PO MARKET STATION",
+      "dest_en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "orig_tc": "大埔墟站",
+      "dest_tc": "香港教育大學",
+      "special_remark_tc": "經工業村",
+      "special_remark_en": "Via Industrial Estate",
+      "stops": [
+        "TA10T09500",
+        "TA21N26900",
+        "NA05N12000",
+        "TI08E12000",
+        "DA02S10000",
+        "DA06E10000",
+        "DA03N10000",
+        "DA03N10500",
+        "HO04T10500"
       ]
     },
     {
@@ -41169,6 +41227,79 @@
       ]
     },
     {
+      "route": "600X",
+      "bound": "I",
+      "service_type": "1",
+      "orig_en": "CENTRAL (RUMSEY STREET)",
+      "dest_en": "ANDERSON",
+      "orig_tc": "中環(林士街)",
+      "dest_tc": "安達臣",
+      "special_remark_tc": "由2026年9月14日起提供服務",
+      "special_remark_en": "With effective from 14/9/2026.",
+      "stops": [
+        "CE01T10000",
+        "CO03E10900",
+        "CO03E11750",
+        "QU04E10500",
+        "HE02E12650",
+        "HE02E14600",
+        "HE02E16000",
+        "HE02E17500",
+        "HE02E18100",
+        "YE03E10900",
+        "CA08E14200",
+        "HI02N10000",
+        "EH01E10500",
+        "LE03W11500",
+        "TS03E10000",
+        "SA13W10250",
+        "PO04E09500",
+        "ON15W10000",
+        "ON14W10500",
+        "ON14W11500",
+        "ON17S10000",
+        "ON18S10300",
+        "ON18N10300",
+        "ON18N11000",
+        "ON19K10000",
+        "AN01T10500"
+      ]
+    },
+    {
+      "route": "600X",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "ANDERSON",
+      "dest_en": "CENTRAL (RUMSEY STREET)",
+      "orig_tc": "安達臣",
+      "dest_tc": "中環(林士街)",
+      "special_remark_tc": "由2026年9月14日起提供服務",
+      "special_remark_en": "With effective from 14/9/2026.",
+      "stops": [
+        "AN01T10500",
+        "ON19A10000",
+        "ON18S10000",
+        "ON18S10500",
+        "ON18N10500",
+        "ON17N10000",
+        "ON14E08250",
+        "ON14E09000",
+        "ON14E10500",
+        "PO04W10400",
+        "SA13E12000",
+        "LA08T12750",
+        "EH01W10000",
+        "IN01W12150",
+        "GL01W14500",
+        "GL01W16000",
+        "HA06W10000",
+        "CO03W10000",
+        "CO03W10800",
+        "CO03W14400",
+        "CE01T09500"
+      ]
+    },
+    {
       "route": "601",
       "bound": "I",
       "service_type": "1",
@@ -55765,24 +55896,6 @@
     },
     {
       "route": "PB1",
-      "bound": "I",
-      "service_type": "2",
-      "orig_en": "Sheung Shui",
-      "dest_en": "GO PARK",
-      "orig_tc": "上水",
-      "dest_tc": "西沙 GO PARK",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N07700",
-        "SB15N08050",
-        "SB15N08100",
-        "SB15N08200",
-        "SB15N08400"
-      ]
-    },
-    {
-      "route": "PB1",
       "bound": "O",
       "service_type": "1",
       "orig_en": "GO PARK",
@@ -55802,24 +55915,6 @@
       ]
     },
     {
-      "route": "PB1",
-      "bound": "O",
-      "service_type": "2",
-      "orig_en": "GO PARK",
-      "dest_en": "Sheung Shui",
-      "orig_tc": "西沙 GO PARK",
-      "dest_tc": "上水",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N08400",
-        "SB15N08200",
-        "SB15N08100",
-        "SB15N08050",
-        "SB15N07700"
-      ]
-    },
-    {
       "route": "PB2",
       "bound": "I",
       "service_type": "1",
@@ -55832,25 +55927,8 @@
       "stops": [
         "SB15N20100",
         "SB15N08750",
-        "SB15N04600",
-        "SB15N03100",
-        "SB15N03800",
-        "SB15N08400"
-      ]
-    },
-    {
-      "route": "PB2",
-      "bound": "I",
-      "service_type": "2",
-      "orig_en": "KAI TAK (MUK YUEN STREET)",
-      "dest_en": "GO PARK",
-      "orig_tc": "啟德(沐元街)",
-      "dest_tc": "西沙 GO PARK",
-      "special_remark_tc": "",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N08750",
-        "SB15N04600",
+        "SB15N03120",
+        "SB15N03110",
         "SB15N03100",
         "SB15N03800",
         "SB15N08400"
@@ -55870,27 +55948,10 @@
         "SB15N08400",
         "SB15N03800",
         "SB15N03100",
-        "SB15N04600",
+        "SB15N03110",
+        "SB15N03120",
         "SB15N08750",
         "SB15N20100"
-      ]
-    },
-    {
-      "route": "PB2",
-      "bound": "O",
-      "service_type": "2",
-      "orig_en": "GO PARK",
-      "dest_en": "KAI TAK (MUK YUEN STREET)",
-      "orig_tc": "西沙 GO PARK",
-      "dest_tc": "啟德(沐元街)",
-      "special_remark_tc": "",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N08400",
-        "SB15N03800",
-        "SB15N03100",
-        "SB15N04600",
-        "SB15N08750"
       ]
     },
     {
@@ -55915,26 +55976,6 @@
     },
     {
       "route": "PB3",
-      "bound": "I",
-      "service_type": "2",
-      "orig_en": "Kornhill Plaza",
-      "dest_en": "Hong Kong Palace Museum",
-      "orig_tc": "康怡廣場",
-      "dest_tc": "香港故宮文化博物館",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N11820",
-        "SB15N20400",
-        "SB15N10700",
-        "SB15N11800",
-        "SB15N04250",
-        "SB15N20500",
-        "SB15N20100"
-      ]
-    },
-    {
-      "route": "PB3",
       "bound": "O",
       "service_type": "1",
       "orig_en": "Hong Kong Palace Museum",
@@ -55942,26 +55983,6 @@
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "康怡廣場",
       "special_remark_tc": "星期六及日",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N20100",
-        "SB15N20200",
-        "SB15N11800",
-        "SB15N04250",
-        "SB15N10700",
-        "SB15N20300",
-        "SB15N11820"
-      ]
-    },
-    {
-      "route": "PB3",
-      "bound": "O",
-      "service_type": "2",
-      "orig_en": "Hong Kong Palace Museum",
-      "dest_en": "Kornhill Plaza",
-      "orig_tc": "香港故宮文化博物館",
-      "dest_tc": "康怡廣場",
-      "special_remark_tc": "星期一至五",
       "special_remark_en": "Normal",
       "stops": [
         "SB15N20100",
@@ -55994,23 +56015,6 @@
     },
     {
       "route": "PB4",
-      "bound": "I",
-      "service_type": "2",
-      "orig_en": "YOHO MALL (YUEN LONG)",
-      "dest_en": "HONG KONG PALACE MUSEUM",
-      "orig_tc": "元朗 形點",
-      "dest_tc": "香港故宮文化博物館",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N06000",
-        "SB15N06300",
-        "SB15N01000",
-        "SB15N20100"
-      ]
-    },
-    {
-      "route": "PB4",
       "bound": "O",
       "service_type": "1",
       "orig_en": "HONG KONG PALACE MUSEUM",
@@ -56029,23 +56033,6 @@
       ]
     },
     {
-      "route": "PB4",
-      "bound": "O",
-      "service_type": "2",
-      "orig_en": "HONG KONG PALACE MUSEUM",
-      "dest_en": "YOHO MALL (YUEN LONG)",
-      "orig_tc": "香港故宮文化博物館",
-      "dest_tc": "元朗 形點",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N20100",
-        "SB15N01000",
-        "SB15N06300",
-        "SB15N06000"
-      ]
-    },
-    {
       "route": "PB5",
       "bound": "I",
       "service_type": "1",
@@ -56066,25 +56053,6 @@
     },
     {
       "route": "PB5",
-      "bound": "I",
-      "service_type": "2",
-      "orig_en": "DISCOVERY BAY PLAZA",
-      "dest_en": "HONG KONG PALACE MUSEUM",
-      "orig_tc": "愉景廣場",
-      "dest_tc": "香港故宮文化博物館",
-      "special_remark_tc": "星期一至五",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N07000",
-        "SB15N07400",
-        "SB14N10250",
-        "SB15N02950",
-        "SB15N02700",
-        "SB15N20100"
-      ]
-    },
-    {
-      "route": "PB5",
       "bound": "O",
       "service_type": "1",
       "orig_en": "HONG KONG PALACE MUSEUM",
@@ -56092,25 +56060,6 @@
       "orig_tc": "香港故宮文化博物館",
       "dest_tc": "愉景廣場",
       "special_remark_tc": "星期六及日",
-      "special_remark_en": "Normal",
-      "stops": [
-        "SB15N20100",
-        "SB15N02700",
-        "SB15N02950",
-        "SB14N10250",
-        "SB15N07300",
-        "SB15N07000"
-      ]
-    },
-    {
-      "route": "PB5",
-      "bound": "O",
-      "service_type": "2",
-      "orig_en": "HONG KONG PALACE MUSEUM",
-      "dest_en": "DISCOVERY BAY PLAZA",
-      "orig_tc": "香港故宮文化博物館",
-      "dest_tc": "愉景廣場",
-      "special_remark_tc": "星期一至五",
       "special_remark_en": "Normal",
       "stops": [
         "SB15N20100",
@@ -76744,44 +76693,44 @@
       "stop_name_en": "POK YIN ROAD"
     },
     "PR01E10500": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E11000": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E11500": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E12000": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E12500": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E13000": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E13500": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E14000": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E14100": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E14200": {
-      "stop_name_zh": "九龍城轉車站富豪東方酒店",
-      "stop_name_en": "KOWLOON CITY BBI REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城轉車站",
+      "stop_name_en": "KOWLOON CITY BBI"
     },
     "PR01E14500": {
       "stop_name_zh": "譽．港灣",
@@ -77420,8 +77369,8 @@
       "stop_name_en": "MUK MIN HA TSUEN"
     },
     "SA01S10000": {
-      "stop_name_zh": "富豪東方酒店",
-      "stop_name_en": "REGAL ORIENTAL HOTEL"
+      "stop_name_zh": "九龍城沙浦道",
+      "stop_name_en": "SA PO ROAD KOWLOON CITY"
     },
     "SA01T10000": {
       "stop_name_zh": "西貢巴士總站",
@@ -78818,6 +78767,14 @@
     "SB15N03100": {
       "stop_name_zh": "將軍澳(唐俊街)",
       "stop_name_en": "TSEUNG KWAN O (TONG CHUN STREET)"
+    },
+    "SB15N03110": {
+      "stop_name_zh": "九龍東帝苑酒店",
+      "stop_name_en": "THE ROYAL GARDEN KOWLOON EAST"
+    },
+    "SB15N03120": {
+      "stop_name_zh": "觀塘The ANGLE",
+      "stop_name_en": "THE ANGLE, KWUN TONG"
     },
     "SB15N03800": {
       "stop_name_zh": "美裕街",
