@@ -15581,6 +15581,30 @@
       ]
     },
     {
+      "route": "73B",
+      "bound": "O",
+      "service_type": "4",
+      "orig_en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "dest_en": "SHEUNG SHUI STATION",
+      "orig_tc": "香港教育大學",
+      "dest_tc": "上水站",
+      "special_remark_tc": "教大特快往粉嶺站及上水站，不經大窩西及聯和墟",
+      "special_remark_en": "EDUHK Express to Fanling Station and Sheung Shui S",
+      "stops": [
+        "HO04T11000",
+        "TA07T13250",
+        "TI08W21500",
+        "PO17W09500",
+        "JO01W09500",
+        "SA12W10000",
+        "SA12W10500",
+        "JO01W10500",
+        "JO01W11000",
+        "LU08S10500",
+        "SA12W11500"
+      ]
+    },
+    {
       "route": "73D",
       "bound": "I",
       "service_type": "1",
@@ -29577,6 +29601,11 @@
       "special_remark_tc": "",
       "special_remark_en": "",
       "stops": [
+        "CA07S38000",
+        "CA07S38500",
+        "CA07S39000",
+        "CA07S39250",
+        "CA07S39500",
         "CA07S39750",
         "CA07S40500",
         "CA07S40750",
@@ -29602,6 +29631,8 @@
         "CA07S57500",
         "LU05E10250",
         "LU05E10500",
+        "LU05E16500",
+        "TA12E10000",
         "KW16E12850",
         "KW16E15000",
         "KW16E15500",
@@ -33781,7 +33812,7 @@
         "TI17E10000",
         "TI12N10250",
         "TI16W10000",
-        "TI05N16500",
+        "TI05N16400",
         "WE02E10000",
         "TI12S07000",
         "TI12S08000",
@@ -34429,7 +34460,7 @@
         "TI05N15000",
         "TI05N15500",
         "TI05N16000",
-        "TI05N16500",
+        "TI05N16400",
         "WE02E10000",
         "WE02E11000",
         "TI17W09500",
@@ -83355,6 +83386,10 @@
       "stop_name_en": "TIN YAN ESTATE"
     },
     "TI05N16202": {
+      "stop_name_zh": "天恩邨",
+      "stop_name_en": "TIN YAN ESTATE"
+    },
+    "TI05N16400": {
       "stop_name_zh": "天恩邨",
       "stop_name_en": "TIN YAN ESTATE"
     },
