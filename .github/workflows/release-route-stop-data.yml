@@ -32,10 +32,12 @@ jobs:
           tag_name="v$(TZ=Asia/Hong_Kong date '+%Y.%m.%d')"
           release_title="Release ${tag_name}"
           release_notes="Automated release containing updated kmb_route_stop.json."
+          data_commit="$(git log -1 --format=%H -- kmb_route_stop.json)"
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git tag --force --annotate "$tag_name" --message "Automated release ${tag_name}"
+          git tag --force --annotate "$tag_name" "$data_commit" \
+            --message "Automated release ${tag_name}"
           git push origin --force "refs/tags/${tag_name}:refs/tags/${tag_name}"
 
           if gh release view "$tag_name" >/dev/null 2>&1; then
