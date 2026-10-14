@@ -1,0 +1,53 @@
+name: Release KMB route-stop data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - kmb_route_stop.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-kmb-route-stop-data
+  cancel-in-progress: false
+
+jobs:
+  release-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create or update daily data release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag_name="v$(TZ=Asia/Hong_Kong date '+%Y.%m.%d')"
+          release_title="Release ${tag_name}"
+          release_notes="Automated release containing updated kmb_route_stop.json."
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag --force --annotate "$tag_name" --message "Automated release ${tag_name}"
+          git push origin --force "refs/tags/${tag_name}:refs/tags/${tag_name}"
+
+          if gh release view "$tag_name" >/dev/null 2>&1; then
+            gh release edit "$tag_name" \
+              --title "$release_title" \
+              --notes "$release_notes" \
+              --latest
+            gh release upload "$tag_name" kmb_route_stop.json --clobber
+          else
+            gh release create "$tag_name" kmb_route_stop.json \
+              --title "$release_title" \
+              --notes "$release_notes" \
+              --latest \
+              --verify-tag
+          fi
